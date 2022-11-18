@@ -9,7 +9,7 @@
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/2kxs/plugin.zip",
         "version": 1,
-        "source": "https://uukanshu.com",
+        "source": "https://k.2kxs.org/",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/2kxs/icon.png",
         "description": "Đọc truyện trên trang k.2kxs.org",
         "type": "chinese_novel",
@@ -133,7 +133,7 @@
         "source": "https://m.ac.qq.com",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq/icon.png",
         "description": "Đọc truyện trên trang m.ac.qq.com",
-        "type": "chinese_novel",
+        "type": "chinese_comic",
         "locale": "zh_CN"
       },
       {
@@ -144,7 +144,7 @@
         "source": "https://www.manhuagui.com",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/manhuagui/icon.png",
         "description": "Đọc truyện trên trang www.manhuagui.com",
-        "type": "chinese_novel",
+        "type": "chinese_comic",
         "locale": "zh_CN"
       },
       {
