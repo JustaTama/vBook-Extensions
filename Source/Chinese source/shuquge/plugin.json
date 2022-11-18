@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Shuquge",
+    "name": "书趣阁",
     "author": "JustaTama",
     "version": 1,
-    "source": "http://www.shuquge.com",
-    "regexp": "(www.)?shuquge.com.*",
-    "description": "Đọc truyện trên trang shuquge.com",
-    "local": "vi-VN",
+    "source": "http://www.ishuquge.com",
+    "regexp": "(www.)?(wap.)?shuquge.com.*",
+    "description": "Đọc truyện trên trang www.ishuquge.com",
+    "local": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },

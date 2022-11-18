@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "2kxs",
+    "name": "2k小说",
     "author": "JustaTama",
     "version": 1,
     "source": "https://k.2kxs.org/",
     "regexp": "https://k.2kxs.org/\\d+_\\d+/",
-    "description": "Đọc truyện tại trang k.2kxs.org",
+    "description": "Đọc truyện trên trang k.2kxs.org",
     "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"

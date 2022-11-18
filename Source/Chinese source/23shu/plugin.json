@@ -5,7 +5,7 @@
     "version": 1,
     "source": "http://www.23shu.com",
     "regexp": "(www.)?(m.)?23shu.com/novel/\\d+/?",
-    "description": "Đọc truyện tại trang www.23shu.com",
+    "description": "Đọc truyện trên trang www.23shu.com",
     "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "腾讯动漫 (Comic)",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://m.ac.qq.com",
+    "regexp": "(www.)?(m.)?ac.qq.com/comic/index/id/\\d+",
+    "description": "Đọc truyện trên trang m.ac.qq.com<br><br>Notes: Server tại TQ nên ảnh load chậm.",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

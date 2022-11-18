@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Manhua Gui",
+    "name": "漫画大全",
     "author": "JustaTama",
-    "version": 3,
+    "version": 1,
     "source": "https://www.manhuagui.com",
     "regexp": "(www.)?(m.)?(manhuagui||mhgui).com/comic/\\d+/?",
-    "description": "Nếu có lỗi vui lòng liên hệ email: mtama1204@yandex.com",
-    "locale": "zh-CN",
+    "description": "Đọc truyện trên trang www.manhuagui.com",
+    "locale": "zh_CN",
     "language": "javascript",
     "type": "comic"
   },

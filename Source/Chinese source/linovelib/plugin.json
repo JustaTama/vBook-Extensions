@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Linovelib",
+    "name": "哔哩轻小说",
     "author": "JustaTama",
     "version": 2,
     "source": "https://w.linovelib.com/",
     "regexp": "(www.)?w.linovelib.com/novel/\\d+.html",
-    "description": "Đọc truyện trên trang w.linovelib.com<br><br>v2: Fix lỗi thiếu nội dung",
-    "local": "cn-CN",
+    "description": "Đọc truyện trên trang w.linovelib.com <br><br> V2: Fix lỗi thiếu nội dung",
+    "local": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },

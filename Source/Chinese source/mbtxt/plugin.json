@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Mb TXT 【妙笔】",
+    "name": "妙笔文学网",
     "author": "JustaTama",
-    "version": 5,
+    "version": 1,
     "source": "https://www.mbtxt.la",
     "regexp": "(www.)?mbtxt.la/go/\\d+/?",
-    "description": "Nếu lỗi báo cáo email: mtama1204@yandex.com hoặc discord",
-    "locale": "zh-CN",
+    "description": "Đọc truyện trên trang www.mbtxt.la",
+    "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },

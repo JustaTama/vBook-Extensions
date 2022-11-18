@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Book QQ [阅读]",
+    "name": "QQ阅读",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://book.qq.com",
     "regexp": "(www.)?(ubook.reader|book).qq.com/book-detail/\\d+/?$",
-    "description": "Đọc truyện tại trang book.qq.com",
-    "locale": "zh-CN",
+    "description": "Đọc truyện trên trang book.qq.com",
+    "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },

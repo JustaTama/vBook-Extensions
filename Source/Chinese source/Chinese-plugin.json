@@ -1,0 +1,228 @@
+{
+    "metadata": {
+      "author": "JustaTama",
+      "description": "Chinese Source"
+    },
+    "data": [
+      {
+        "name": "2k小说",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/2kxs/plugin.zip",
+        "version": 1,
+        "source": "https://uukanshu.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/2kxs/icon.png",
+        "description": "Đọc truyện trên trang k.2kxs.org",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "23书屋",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/23shu/plugin.zip",
+        "version": 1,
+        "source": "https://www.23shu.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/23shu/icon.png",
+        "description": "Đọc truyện trên trang www.23shu.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "69书吧",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/69shu/plugin.zip",
+        "version": 1,
+        "source": "https://www.69shu.io",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/69shu/icon.png",
+        "description": "Đọc truyện trên trang www.69shu.io",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "230顶点小说",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/230book/plugin.zip",
+        "version": 1,
+        "source": "https://www.230book.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/230book/icon.png",
+        "description": "Đọc truyện trên trang www.230book.net",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "飞卢小说网",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/bfaloo/plugin.zip",
+        "version": 1,
+        "source": "https://b.faloo.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/bfaloo/icon.png",
+        "description": "Đọc truyện trên trang b.faloo.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },      
+      {
+        "name": "QQ阅读",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/bookqq/plugin.zip",
+        "version": 1,
+        "source": "https://book.qq.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/bookqq/icon.png",
+        "description": "Đọc truyện trên trang book.qq.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },      
+      {
+        "name": "刺猬猫",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/ciweimao/plugin.zip",
+        "version": 1,
+        "source": "https://www.ciweimao.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/ciweimao/icon.png",
+        "description": "Đọc truyện trên trang www.ciweimao.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },      
+      {
+        "name": "Dingdiang",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/dingdian/plugin.zip",
+        "version": 1,
+        "source": "https://www.dingdian666.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/dingdian/icon.png",
+        "description": "Đọc truyện trên trang www.dingdian666.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },      
+      {
+        "name": "Fanqie Novel",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/fanqienovel/plugin.zip",
+        "version": 2,
+        "source": "https://fanqienovel.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/fanqienovel/icon.png",
+        "description": "Đọc truyện tại trang fanqienovel.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "轻之文库轻小说",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/linovel/plugin.zip",
+        "version": 2,
+        "source": "https://www.linovel.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/linovel/icon.png",
+        "description": "Đọc truyện trên trang www.linovel.net",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "哔哩轻小说",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/linovelib/plugin.zip",
+        "version": 2,
+        "source": "https://w.linovelib.com/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/linovelib/icon.png",
+        "description": "Đọc truyện trên trang w.linovelib.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "腾讯动漫 (Comic)",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq/plugin.zip",
+        "version": 1,
+        "source": "https://m.ac.qq.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq/icon.png",
+        "description": "Đọc truyện trên trang m.ac.qq.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "漫画大全",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/manhuagui/plugin.zip",
+        "version": 1,
+        "source": "https://www.manhuagui.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/manhuagui/icon.png",
+        "description": "Đọc truyện trên trang www.manhuagui.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "妙笔文学网",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/mbtxt/plugin.zip",
+        "version": 1,
+        "source": "https://www.mbtxt.la",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/mbtxt/icon.png",
+        "description": "Đọc truyện trên trang www.mbtxt.la",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "旧时光文学",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/oldtimesxs/plugin.zip",
+        "version": 2,
+        "source": "https://www.oldtimesxs.cc/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/oldtimesxs/icon.png",
+        "description": "Đọc truyện trên trang www.oldtimesxs.cc",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "PO18 臉紅心跳",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/po18/plugin.zip",
+        "version": 1,
+        "source": "https://www.po18.tw",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/po18/icon.png",
+        "description": "Đọc truyện thể loại 18+ trên trang www.po18.tw",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "飄天文學",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/ptwxc/plugin.zip",
+        "version": 1,
+        "source": "https://www.ptwxc.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/ptwxc/icon.png",
+        "description": "Đọc truyện trên trang www.ptwxc.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "书屋小说网",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/shu05/plugin.zip",
+        "version": 1,
+        "source": "http://www.shu05.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/shu05/icon.png",
+        "description": "Đọc truyện trên trang www.shu05.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "书趣阁",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/shuquge/plugin.zip",
+        "version": 1,
+        "source": "http://www.ishuquge.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/shuquge/icon.png",
+        "description": "Đọc truyện trên trang www.ishuquge.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "御书网",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/yushugu/plugin.zip",
+        "version": 2,
+        "source": "https://www.yushugu.com/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/yushugu/icon.png",
+        "description": "Đọc truyện trên trang yushugu.net",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      }
+    ]
+  }

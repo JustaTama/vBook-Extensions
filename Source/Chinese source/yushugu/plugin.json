@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "御书网",
+    "author": "JustaTama",
+    "version": 2,
+    "source": "https://www.yushugu.com/",
+    "regexp": "(www.)?(m.)?yushugu.com/book_\\d+.html",
+    "description": "Đọc truyện trên trang yushugu.net <br><br> V2: Fix load chương thiếu",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

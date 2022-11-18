@@ -1,6 +1,6 @@
 function execute(url, page) {
     if (!page) page = '1';
-    const doc = Http.get("http://www.shuquge.com/category/"+url+"_"+page+".html").html();
+    const doc = Http.get("http://www.ishuquge.com/category/"+url+"_"+page+".html").html();
 
     var next = doc.select(".wrap").select("b.a-active + a").text();
 
@@ -14,9 +14,9 @@ function execute(url, page) {
         data.push({
             name: e.select(".s2 a").first().text(),
             link: e.select(".s2 a").first().attr("href"),
-            cover: 'http://www.shuquge.com/files/article/image/'+fol+'/'+booKId+'/'+booKId+'s.jpg',
+            cover: 'http://www.ishuquge.com/files/article/image/'+fol+'/'+booKId+'/'+booKId+'s.jpg',
             description: e.select(".s4").text(),
-            host: "http://www.shuquge.com"
+            host: "http://www.ishuquge.com"
         })
     }
 

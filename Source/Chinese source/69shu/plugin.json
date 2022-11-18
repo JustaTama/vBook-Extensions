@@ -2,10 +2,10 @@
   "metadata": {
     "name": "69书吧",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://www.69shu.io",
     "regexp": "(www.)?69shu.io.*",
-    "description": "Đọc truyện tại trang 69shu.io",
+    "description": "Đọc truyện trên trang www.69shu.io",
     "local": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"

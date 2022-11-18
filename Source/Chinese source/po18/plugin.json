@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "PO18 臉紅心跳",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://www.po18.tw",
+    "regexp": "(www.)?po18.tw/books/\\d+/?",
+    "description": "Đọc truyện thể loại 18+ trên trang www.po18.tw <br><br> Notes: Cần tạo tài khoản PO18 và mở trang nguồn trong vBook-App để đăng nhập sau đó nội dung sẽ được hiển thị",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

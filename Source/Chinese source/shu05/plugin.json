@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Shu05",
+    "name": "书屋小说网",
     "author": "JustaTama",
     "version": 1,
     "source": "http://www.shu05.com",
     "regexp": "(www.)?shu05.com.*",
     "description": "Đọc truyện trên trang www.shu05.com",
-    "local": "cn-CN",
+    "local": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },
