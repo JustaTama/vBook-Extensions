@@ -6,7 +6,7 @@
     "source": "https://www.250sy.net",
     "regexp": "(www.)?(m.)?250sy.net/book/\\d+.(html|html)",
     "description": "Đọc truyện tại trang www.250sy.net",
-    "locale": "zh-CN",
+    "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },

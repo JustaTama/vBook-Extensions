@@ -6,7 +6,7 @@
     "source": "https://www.230book.net",
     "regexp": "(www.|m.)?((230book.net/book/\\d+/)|(230book.net/book/\\d+))",
     "description": "Đọc truyện trên trang www.230book.net",
-    "locale": "zh-CN",
+    "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
   },
