@@ -4,12 +4,12 @@ function execute(url) {
     if (response.ok) {
         let doc = response.html();
         doc.select('font').remove();
-        let htm = doc.select('body').html();
-        htm = htm.replace(/<a[^>]*>([^<]+)<\/a>/g,'')
+        let html = doc.select('body').html();
+        html = html.replace(/<a[^>]*>([^<]+)<\/a>/g,'')
             .replace(/ ?\n/g, "<br>")
             .replace(/(<br\s*\/?>){2,}/g, '<br>')
             .replace(/&(nbsp|amp|quot|lt|gt);/g, "");
-        return Response.success(htm);
+        return Response.success(html);
     }
     return null;
 }

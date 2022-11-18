@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "顶点小说",
+    "name": "230book 顶点小说",
     "author": "JustaTama",
-    "version": 9,
+    "version": 1,
     "source": "https://www.230book.net",
     "regexp": "(www.|m.)?((230book.net/book/\\d+/)|(230book.net/book/\\d+))",
-    "description": "Đọc truyện trên trang 230book.net",
+    "description": "Đọc truyện trên trang www.230book.net",
     "locale": "zh-CN",
     "language": "javascript",
     "type": "chinese_novel"

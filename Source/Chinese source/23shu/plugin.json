@@ -2,10 +2,10 @@
   "metadata": {
     "name": "23书屋",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "http://www.23shu.com",
     "regexp": "(www.)?(m.)?23shu.com/novel/\\d+/?",
-    "description": "Đọc truyện tại trang 23shu.com<br><br>v2: Fix linh tinh",
+    "description": "Đọc truyện tại trang www.23shu.com",
     "locale": "zh-CN",
     "language": "javascript",
     "type": "chinese_novel"
