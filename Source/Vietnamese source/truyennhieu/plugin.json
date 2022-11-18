@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Truyện Nhiều",
+    "author": "JustaTama",
+    "version": 3,
+    "source": "https://truyennhieu.com",
+    "regexp": "(www.)?truyennhieu.com/[^/]+/?",
+    "description": "Đọc truyện trên trang Truyennhieu.com",
+    "local": "vi-VN",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

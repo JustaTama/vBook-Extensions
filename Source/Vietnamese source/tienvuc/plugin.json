@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Tiên Vực",
+    "author": "JustaTama",
+    "version": 4,
+    "source": "https://tienvuc.vip",
+    "regexp": "(www.)?tienvuc.vip/[0-9a-z-]+/?$",
+    "description": "Nếu có vấn đề vui lòng liên hệ email : mtama1204@yandex.com",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

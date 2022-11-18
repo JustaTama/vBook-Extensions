@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "LiNovel【轻小说文库】",
+    "author": "JustaTama",
+    "version": 2,
+    "source": "https://www.linovel.net",
+    "regexp": "(www.)linovel.net/book/\\d+.html",
+    "description": "Đọc truyện trên trang linovel.net<br><br>v2: Fix lỗi cú pháp ",
+    "local": "cn-CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

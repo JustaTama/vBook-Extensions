@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Dingdian【顶点】",
+    "author": "JustaTama",
+    "version": 2,
+    "source": "https://www.dingdian666.com",
+    "regexp": "(www.)?((dingdian666.com/xiaoshuo/\\d+/?$)|(m.dingdian666.com/ebooks/\\d+/?$))",
+    "description": "Đọc truyện tại trang dingdian666.com<br><br>Extention này cover méo có đâu nên đừng báo lỗi nhé :)",
+    "local": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

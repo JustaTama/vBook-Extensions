@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Giáng Thế",
+    "author": "JustaTama",
+    "version": 2,
+    "source": "https://giangthe.com",
+    "regexp": "(www.)?giangthe.com/truyen/\\d+",
+    "description": "Đọc truyện tại trang giangthe.com<br><br>v2: Fix lỗi khoảng cách chữ",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

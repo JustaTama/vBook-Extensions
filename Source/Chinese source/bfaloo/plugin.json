@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "飞卢小说网",
+    "author": "JustaTama",
+    "version": 5,
+    "source": "https://b.faloo.com",
+    "regexp": "(www.)?((b.faloo.com/\\d+.html)|(wap.faloo.com/\\d+.html))",
+    "description": "Đọc truyện tại trang b.faloo.com<br><br>v5: Update thông báo nếu là chương VIP",
+    "local": "cn-CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

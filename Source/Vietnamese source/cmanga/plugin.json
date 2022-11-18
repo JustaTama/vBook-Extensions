@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "CManga",
+    "author": "JustaTama",
+    "version": 5,
+    "source": "https://cmangad.com",
+    "regexp": "(www.)?cmangad.com/[0-9a-z-]+",
+    "description": "Đọc truyện tại trang cmangad.com<br><br>Site mã hoá nên load chậm hơn bình thường<br><br>v5: Fix domain",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -1,0 +1,950 @@
+{
+    "metadata": {
+        "author": "JustaTama",
+        "description": "Mãn nguyện r chếc nhe"
+    },
+    "data": [
+      {
+        "name": "2kxs",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/2kxs/plugin.zip",
+        "version": 2,
+        "source": "https://k.2kxs.org/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/2kxs/icon.png",
+        "description": "Đọc truyện tại trang k.2kxs.org",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "8ternal",
+          "author": "JustaTama",
+          "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/8ternal/plugin.zip",
+          "version": 2,
+          "source": "https://comic.8ternal.com.vn",
+          "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/8ternal/icon.png",
+          "description": "8ternal tổng hợp truyện dịch từ nhiều nguồn khác nhau, hỗ trợ các bạn đọc comics theo đúng timeline của các sự kiện chính. Hoặc đọc truyện theo timeline nhân vật mà các bạn yêu thích.",
+          "type": "comic",
+          "locale": "vi_VN"
+      },
+      {
+        "name": "23书屋",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/23shu/plugin.zip",
+        "version": 2,
+        "source": "https://www.23shu.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/23shu/icon.png",
+        "description": "Đọc truyện trên trang 23shu.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "69书吧",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/69shu/plugin.zip",
+        "version": 2,
+        "source": "https://www.69shu.io",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/69shu/icon.png",
+        "description": "Đọc truyện trên trang 69shu.io",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "123TRUYENVIP",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/123truyenvip/plugin.zip",
+        "version": 4,
+        "source": "https://123truyenvip.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/123truyenvip/icon.png",
+        "description": "Đọc truyện trên trang 123truyenvip.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "顶点小说",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/230book/plugin.zip",
+        "version": 9,
+        "source": "http://www.230book.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/230book/icon.png",
+        "description": "Đọc truyện trên trang www.230book.net",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "250sy",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/250sy/plugin.zip",
+        "version": 2,
+        "source": "https://www.250sy.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/250sy/icon.png",
+        "description": "Đọc truyện trên trang 250sy.net",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "265小说",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/265xs/plugin.zip",
+        "version": 2,
+        "source": "https://www.265xs.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/265xs/icon.png",
+        "description": "Đọc truyện trên trang www.265xs.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "AC QQ 腾讯动漫",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/acqq/plugin.zip",
+        "version": 2,
+        "source": "https://m.ac.qq.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/acqq/icon.png",
+        "description": "Đọc truyện trên trang m.ac.qq.com",
+        "type": "comic",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "BaoTangTruyen",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/baotangtruyen/plugin.zip",
+        "version": 2,
+        "source": "https://baotangtruyenhay.com/home",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/baotangtruyen/icon.png",
+        "description": "Web Đọc Truyện Tranh Online lớn nhất VN ✔️ Kho Truyện khổng lồ đầy đủ các thể loại truyện được lấy từ mọi nơi ✔️ Trang Load Nhanh, Không quảng cáo✔️",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "飞卢小说网",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/bfaloo/plugin.zip",
+        "version": 5,
+        "source": "https://b.faloo.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/bfaloo/icon.png",
+        "description": "Đọc truyện trên trang b.faloo.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "Book QQ [阅读]",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/bookqq/plugin.zip",
+        "version": 2,
+        "source": "https://book.qq.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/bookqq/icon.png",
+        "description": "Đọc truyện trên trang book.qq.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "ciweimao",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/ciweimao/plugin.zip",
+        "version": 3,
+        "source": "https://mip.ciweimao.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/ciweimao/icon.png",
+        "description": "Đọc truyện trên trang mip.ciweimao.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "CManga",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/cmanga/plugin.zip",
+        "version": 5,
+        "source": "https://cmangad.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/cmanga/icon.png",
+        "description": "Đọc truyện trên trang cmangad.com",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Dingdian【顶点】",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/dingdian/plugin.zip",
+        "version": 2,
+        "source": "https://www.dingdian666.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/dingdian/icon.png",
+        "description": "Đọc truyện trên trang www.dingdian666.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "Docsach24",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/docsach24/plugin.zip",
+        "version": 2,
+        "source": "https://docsach24.co",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/docsach24/icon.png",
+        "description": "Docsach24 tổng hợp và sửa lỗi chính tả các tác phẩm sách, truyện hiện có trên mạng Internet. Chúng tôi không sở hữu hay chịu trách nhiệm bất kỳ thông tin nào trên web này. Nếu làm ảnh hưởng đến cá nhân hay tổ chức nào, khi được yêu cầu, chúng tôi sẽ xem xét và gỡ bỏ ngay lập tức.",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "DocTruyen3Q",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/doctruyen3q/plugin.zip",
+        "version": 2,
+        "source": "https://doctruyen3qme.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/doctruyen3q/icon.png",
+        "description": "Đọc truyện trên trang doctruyen3qme.com",
+        "type": "comic",
+        "locale": "vi_VN",
+        "tag": "nsfw"
+      },
+      {
+        "name": "Doujins",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/doujins/plugin.zip",
+        "version": 6,
+        "source": "https://doujins.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/doujins/icon.png",
+        "description": "Đọc truyện trên trang doujins.com",
+        "type": "comic",
+        "locale": "en_EN",
+        "tag": "nsfw"
+      },
+      {
+        "name": "Fanqie Novel",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/fanqienovel/plugin.zip",
+        "version": 6,
+        "source": "https://fanqienovel.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/fanqienovel/icon.png",
+        "description": "Đọc truyện trên trang fanqienovel.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "GetTruyen",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/gettruyen/plugin.zip",
+        "version": 3,
+        "source": "https://gettruyen.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/gettruyen/icon.png",
+        "description": "Đọc truyện trên trang gettruyen.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Giáng Thế",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/giangthe/plugin.zip",
+        "version": 2,
+        "source": "https://giangthe.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/giangthe/icon.png",
+        "description": "Đọc truyện trên trang giangthe.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Góc Truyện Tranh",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/goctruyentranh/plugin.zip",
+        "version": 2,
+        "source": "https://goctruyentranhhay.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/goctruyentranh/icon.png",
+        "description": "Đọc truyện trên trang goctruyentranhhay.com",
+        "type": "comic",
+        "locale": "vi_VN",
+        "tag": "nsfw"
+      },
+      {
+        "name": "Ham Truyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hamtruyen/plugin.zip",
+        "version": 8,
+        "source": "https://hamtruyenmoi.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hamtruyen/icon.png",
+        "description": "Đọc truyện trên trang hamtruyenmoi.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "HentaiCB",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hentaicb/plugin.zip",
+        "version": 2,
+        "source": "https://hentaicb.top",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hentaicb/icon.png",
+        "description": "Đọc truyện trên trang hentaicb.top",
+        "tag": "nsfw",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Hentaidexy",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hentaidexy/plugin.zip",
+        "version": 2,
+        "source": "https://hentaidexy.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hentaidexy/icon.png",
+        "description": "Đọc truyện trên trang hentaidexy.com",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Hetushu【和图书】",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hetushu/plugin.zip",
+        "version": 2,
+        "source": "https://www.hetushu.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hetushu/icon.png",
+        "description": "Đọc truyện trên trang hetushu.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "hitruyen",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hitruyen/plugin.zip",
+        "version": 1,
+        "source": "https://hitruyen.vip",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hitruyen/icon.png",
+        "description": "Hi Truyện VIP – Đọc Truyện Hay Mỗi Ngày!",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Hố Truyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hotruyen/plugin.zip",
+        "version": 2,
+        "source": "https://hotruyen.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/hotruyen/icon.png",
+        "description": "Đọc truyện trên trang Hotruyen.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Kho Truyện Tranh",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/khotruyentranh/plugin.zip",
+        "version": 4,
+        "source": "https://khotruyentranhhot.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/khotruyentranh/icon.png",
+        "description": "Đọc truyện trên trang Khotruyentranhhot.com",
+        "type": "comic",
+        "locale": "vi_VN",
+        "tag" : "nsfw"
+      },
+      {
+        "name": "klmanga",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/klmanga/plugin.zip",
+        "version": 3,
+        "source": "https://klmanga.com/index",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/klmanga/icon.png",
+        "description": "Đọc truyện trên trang klmanga.co",
+        "type": "comic",
+        "locale": "en_EN"
+      },
+      {
+        "name": "Lanrenyuhai 【旧时光】",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/lanrenyuhai/plugin.zip",
+        "version": 2,
+        "source": "https://www.oldtimesxs.cc/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/lanrenyuhai/icon.png",
+        "description": "Đọc truyện trên trang oldtimesxs.cc",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "LiNovel【轻小说文库】",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/linovel/plugin.zip",
+        "version": 2,
+        "source": "https://www.linovel.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/linovel/icon.png",
+        "description": "Đọc truyện trên trang linovel.net",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "Linovelib",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/linovelib/plugin.zip",
+        "version": 2,
+        "source": "https://w.linovelib.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/linovelib/icon.png",
+        "description": "Đọc truyện trên trang w.linovelib.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "LxHentai",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/lxhentai/plugin.zip",
+        "version": 3,
+        "source": "https://lxhentai.org",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/lxhentai/icon.png",
+        "description": "Đọc truyện trên trang lxhentai.org",
+        "tag": "nsfw",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Manga Buddy",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/mangabuddy/plugin.zip",
+        "version": 8,
+        "source": "https://mangaforest.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/mangabuddy/icon.png",
+        "description": "Đọc truyện trên trang mangaforest.com",
+        "type": "comic",
+        "locale": "en_EN",
+        "tag" : "nsfw"
+      },
+      {
+        "name": "Truyện Gì Hot",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyengihot/plugin.zip",
+        "version": 4,
+        "source": "https://truyengihot.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyengihot/icon.png",
+        "description": "Đọc truyện trên trang truyengihot.net",
+        "type": "comic",
+        "locale": "vi_VN",
+        "tag": "nsfw"
+      },
+      {
+        "name": "Truyện Tiên Hiệp",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentienhiep/plugin.zip",
+        "version": 2,
+        "source": "https://truyentienhiep.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentienhiep/icon.png",
+        "description": "Đọc truyện trên trang truyentienhiep.net",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Tiên Vực",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tienvuc/plugin.zip",
+        "version": 4,
+        "source": "https://tienvuc.vip",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tienvuc/icon.png",
+        "description": "Đọc truyện trên trang tienvuc.vip",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "STV Limited",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/stvlimit/plugin.zip",
+        "version": 9,
+        "source": "https://sangtacviet.xyz",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/stvlimit/icon.png",
+        "description": "Đọc truyện trên trang sangtacviet.xyz",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Truyện Wiki",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenwiki/plugin.zip",
+        "version": 2,
+        "source": "https://truyenwiki.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenwiki/icon.png",
+        "description": "Đọc truyện trên trang Truyenwiki.net",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Truyện A",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyena/plugin.zip",
+        "version": 4,
+        "source": "https://truyena.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyena/icon.png",
+        "description": "Đọc truyện trên trang Truyena.net",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Truyện Top 1",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentop1/plugin.zip",
+        "version": 2,
+        "source": "http://truyentop1.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentop1/icon.png",
+        "description": "Đọc truyện trên trang Truyentop1.com",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Say Hentai",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/sayhentai/plugin.zip",
+        "version": 4,
+        "source": "https://sayhentai.vip",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/sayhentai/icon.png",
+        "description": "Đọc truyện trên trang Sayhentai.vip",
+        "type": "comic",
+        "locale": "vi_VN",
+        "tag": "nsfw"
+      },
+      {
+        "name": "Truyện Dịch",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyendich/plugin.zip",
+        "version": 4,
+        "source": "https://truyendichz.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyendich/icon.png",
+        "description": "Đọc truyện trên trang Truyendichz.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Truyện Dịch Giá Rẻ",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyendichgiare/plugin.zip",
+        "version": 2,
+        "source": "http://truyendichgiare.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyendichgiare/icon.png",
+        "description": "Đọc truyện trên trang Truyendichgiare.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "ST Truyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/sttruyen/plugin.zip",
+        "version": 5,
+        "source": "https://sttruyen.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/sttruyen/icon.png",
+        "description": "Đọc truyện trên trang sttruyen.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Mb TXT 【妙笔】",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/mbtxt/plugin.zip",
+        "version": 5,
+        "source": "https://www.mbtxt.la",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/mbtxt/icon.png",
+        "description": "Đọc truyện trên trang mbtxt.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "9txs",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/9txs/plugin.zip",
+        "version": 3,
+        "source": "https://9taoxs.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/9txs/icon.png",
+        "description": "Đọc truyện trên trang 9taoxs.com",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "Manhua Gui",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhuagui/plugin.zip",
+        "version": 3,
+        "source": "https://www.manhuagui.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhuagui/icon.png",
+        "description": "Đọc truyện trên trang manhuagui.com",
+        "type": "comic",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "19358 文学",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/19358/plugin.zip",
+        "version": 2,
+        "source": "https://www.19358.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/19358/icon.png",
+        "description": "Đọc truyện trên trang www.19358.net",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "20xs",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/20xs/plugin.zip",
+        "version": 3,
+        "source": "https://www.20xs.org",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/20xs/icon.png",
+        "description": "Đọc truyện trên trang www.20xs.org",
+        "type": "chinese_novel",
+        "locale": "zh_CN"
+      },
+      {
+        "name": "Thiên Hà Truyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/thienhatruyen/plugin.zip",
+        "version": 1,
+        "source": "https://thienhatruyen.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/thienhatruyen/icon.png",
+        "description": "Đọc truyện trên trang thienhatruyen.com"
+      },
+      {
+        "name": "SachHayOnline",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/sachhayonline/plugin.zip",
+        "version": 1,
+        "source": "https://www.sachhayonline.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/sachhayonline/icon.png",
+        "description": "Đọc truyện trên trang sachhayonline.com"
+      },
+      {
+        "name": "Truyện 3S",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyen3s/plugin.zip",
+        "version": 1,
+        "source": "https://truyen3s.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyen3s/icon.png",
+        "description": "Đọc truyện trên trang truyen3s.com"
+      },
+      {
+        "name": "Truyện Cool",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyencool/plugin.zip",
+        "version": 1,
+        "source": "https://truyencool.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyencool/icon.png",
+        "description": "Đọc truyện trên trang truyencool.net"
+      },
+      {
+        "name": "Fast Manhwa",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/fastmanhwa/plugin.zip",
+        "version": 2,
+        "source": "https://fastmanhwa.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/fastmanhwa/icon.png",
+        "description": "Đọc truyện trên trang fastmanhwa.net"
+      },
+      {
+        "name": "Novel Buddy",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/novelbuddy/plugin.zip",
+        "version": 1,
+        "source": "https://novelbuddy.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/novelbuddy/icon.png",
+        "description": "Đọc truyện trên trang novelbuddy.com"
+      },
+      {
+        "name": "TsuMiNo",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tsumino/plugin.zip",
+        "version": 1,
+        "source": "https://www.tsumino.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tsumino/icon.png",
+        "description": "Đọc truyện trên trang www.tsumino.com",
+        "tag" : "nsfw"
+      },
+      {
+        "name": "PTWXC 【飄天文學】",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/ptwxc/plugin.zip",
+        "version": 1,
+        "source": "https://www.ptwxc.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/ptwxc/icon.png",
+        "description": "Đọc truyện trên trang www.ptwxc.com"
+      },
+      {
+        "name": "Thích Truyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/thichtruyen/plugin.zip",
+        "version": 1,
+        "source": "https://thichtruyen.vn",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/thichtruyen/icon.png",
+        "description": "Đọc truyện trên trang Thichtruyen.vn"
+      },
+      {
+        "name": "Truyện Tiki",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentiki/plugin.zip",
+        "version": 3,
+        "source": "https://truyentiki.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentiki/icon.png",
+        "description": "Đọc truyện trên trang Truyentiki.com"
+      },
+      {
+        "name": "Truyện Hay TV",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenhaytv/plugin.zip",
+        "version": 3,
+        "source": "https://truyenhaytv.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenhaytv/icon.png",
+        "description": "Đọc truyện trên trang Truyenhaytv.com"
+      },
+      {
+        "name": "Truyện Tranh LH",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentranhlh/plugin.zip",
+        "version": 2,
+        "source": "https://truyentranhlh.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentranhlh/icon.png",
+        "description": "Đọc truyện trên trang Truyentranhlh.net"
+      },
+      {
+        "name": "Truyện Tranh Net",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentranh/plugin.zip",
+        "version": 1,
+        "source": "https://truyentranh.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyentranh/icon.png",
+        "description": "Đọc truyện trên trang Truyentranh.net"
+      },
+      {
+        "name": "Truyện Nhiều",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyennhieu/plugin.zip",
+        "version": 3,
+        "source": "https://truyennhieu.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyennhieu/icon.png",
+        "description": "Đọc truyện trên trang Truyennhieu.com"
+      },
+      {
+        "name": "Truyện Thôi",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenthoi/plugin.zip",
+        "version": 2,
+        "source": "https://truyenthoi.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenthoi/icon.png",
+        "description": "Đọc truyện trên trang Truyenthoi.net"
+      },
+      {
+        "name": "Truyện Wiki Com",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenwikicom/plugin.zip",
+        "version": 3,
+        "source": "https://truyenwiki.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenwikicom/icon.png",
+        "description": "Đọc truyện trên trang truyenwiki.com"
+      },
+      {
+        "name": "Truyện Z",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenz/plugin.zip",
+        "version": 3,
+        "source": "https://truyenz.info",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenz/icon.png",
+        "description": "Đọc truyện trên trang Truyenz.info"
+      },
+      {
+        "name": "Manhwa Manga",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhwamanga/plugin.zip",
+        "version": 1,
+        "source": "https://manhwamanga.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhwamanga/icon.png",
+        "description": "Đọc truyện trên trang Manhwamanga.net",
+        "tag": "nsfw"
+      },
+      {
+        "name": "Read Manhwa",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/readmanhwa/plugin.zip",
+        "version": 1,
+        "source": "https://readmanhwa.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/readmanhwa/icon.png",
+        "description": "Đọc truyện trên trang Readmanhwa.com",
+        "tag": "nsfw"
+      },
+      {
+        "name": "ManhwaHentai",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhwahentai/plugin.zip",
+        "version": 1,
+        "source": "https://manhwahentai.me",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhwahentai/icon.png",
+        "description": "Đọc truyện trên trang Manhwahentai.me",
+        "tag": "nsfw"
+      },
+      {
+        "name": "Shuquge",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/shuquge/plugin.zip",
+        "version": 1,
+        "source": "https://www.shuquge.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/shuquge/icon.png",
+        "description": "Đọc truyện trên trang shuquge.com"
+      },
+      {
+        "name": "Shu05",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/shu05/plugin.zip",
+        "version": 1,
+        "source": "http://www.shu05.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/shu05/icon.png",
+        "description": "Đọc truyện trên trang www.shu05.com"
+      },
+      {
+        "name": "Tadu (塔读)",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tadu/plugin.zip",
+        "version": 2,
+        "source": "https://www.tadu.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tadu/icon.png",
+        "description": "Đọc truyện trên trang www.tadu.com"
+      },
+      {
+        "name": "Truyencv",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyencv/plugin.zip",
+        "version": 1,
+        "source": "https://m.truyencv.vn",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyencv/icon.png",
+        "description": "TruyenCV là trang web đọc truyện convert"
+      },
+      {
+        "name": "Royalroad",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/royalroad/plugin.zip",
+        "version": 1,
+        "source": "https://www.royalroad.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/royalroad/icon.png",
+        "description": "Royal Road® is the home of web novels and fan fictions! In our amazing community, you can find various talented individuals who write as a hobby or even professionally, artists who create art for them, and many, many readers who provide valuable feedback and encouragement."
+      },
+      {
+        "name": "Truyện Mới",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenmoii/plugin.zip",
+        "version": 3,
+        "source": "https://truyenmoii.com/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/truyenmoii/icon.png",
+        "description": "truyenmoii.com. Đọc truyện online miễn phí,đọc truyện mới,đọc truyện hay,truyện full, được cập nhật đầy đủ và nhanh nhất."
+      },
+      {
+        "name": "tuoinung",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tuoinung/plugin.zip",
+        "version": 1,
+        "source": "https://tuoinung.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/tuoinung/icon.png",
+        "description": "Truyện sex hay với đầy đủ các thể loại: phá trinh, loạn luân, ngoại tình, bạo dâm, hiếp dâm, dâm hiệp, học sinh, giáo viên, sinh viên ...."
+      },
+      {
+      "name": "Manhuarock",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhuarock/plugin.zip",
+        "version": 1,
+        "source": "https://manhuarock.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/manhuarock/icon.png",
+        "description": "Kho truyện tranh lớn nhất việt nam, đọc truyện hoàn toàn miễn phí."
+      },
+      {
+        "name": "Việt Writer",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/vietwriter/plugin.zip",
+        "version": 1,
+        "source": "https://vietwriter.vn",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/vietwriter/icon.png",
+        "description": "Đọc truyện trên trang vietwriter.vn"
+      },
+      {
+        "name": "【VIP】Bạch Ngọc Sách",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/VIP.BachNgocSach/plugin.zip",
+        "version": 5,
+        "source": "http://vip.bachngocsach.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/VIP.BachNgocSach/icon.png",
+        "description": "Đọc truyện trên trang vip.bachngocsach.com"
+      },
+      { 
+        "name": "VIPngontinh",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/VIPngontinh/plugin.zip",
+        "version": 1,
+        "source": "https://truyenvipfull.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/VIPngontinh/icon.png",
+        "description": "Truyện VIP - truyenvipfull.com trang đọc truyện thu phí với chất lượng dịch tốt nhất giá rẻ được biên dịch chuyên nghiệp sẽ đem sự hài lòng thỏa niềm đam mê đọc truyện"
+      },
+      {
+        "name": "Vlognovel",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/vlognovel/plugin.zip",
+        "version": 4,
+        "source": "https://vlognovel.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/vlognovel/icon.png",
+        "description": "Vlognovel- Đọc là nghiền"
+      },
+      {
+        "name": "Vlog Truyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/vlogtruyen/plugin.zip",
+        "version": 2,
+        "source": "https://vlogtruyen.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/vlogtruyen/icon.png",
+        "description": "Đọc truyện trên trang vlogtruyen.net",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "WebNovel",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/webnovel/plugin.zip",
+        "version": 1,
+        "source": "https://www.webnovel.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/webnovel/icon.png",
+        "description": "Đọc truyện trên trang webnovel.com"
+      },
+      {
+        "name": "WebToonXYZ",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/webtoonxyz/plugin.zip",
+        "version": 1,
+        "source": "https://www.webtoon.xyz",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/webtoonxyz/icon.png",
+        "description": "Đọc truyện trên trang webtoon.xyz"
+      },
+      {
+        "name": "Wuxia World",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/wuxiaworld/plugin.zip",
+        "version": 1,
+        "source": "https://www.wuxiaworld.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/wuxiaworld/icon.png",
+        "description": "Đọc truyện trên trang www.wuxiaworld.com"
+      },
+      {
+        "name": "yocomic",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/yocomic/plugin.zip",
+        "version": 1,
+        "source": "https://yocomic.com/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/yocomic/icon.png",
+        "description": "Đọc truyện tranh online, đọc truyện tranh miễn phí từ các nhóm dịch"
+      },
+      {
+      "name": "YuShuBo【御书网】",
+      "author": "JustaTama",
+      "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/yushubo/plugin.zip",
+      "version": 4,
+      "source": "https://www.yushubo.net",
+      "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/yushubo/icon.png",
+      "description": "Đọc truyện trên trang yushubo.net",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+      },
+      {
+        "name": "Zing Truyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/zingtruyen/plugin.zip",
+        "version": 2,
+        "source": "https://zingtruyen.net",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/zingtruyen/icon.png",
+        "description": "Đọc truyện trên trang Zingtruyen.net",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "zTruyen",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/ztruyen/plugin.zip",
+        "version": 2,
+        "source": "https://ztruyen.vn",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/ztruyen/icon.png",
+        "description": "zTruyen.vn - đọc truyện Online miễn phí Update nhanh nhất với đầy đủ các thể loại truyện hot, truyện hay và mới nhất như truyện ngôn tình, truyện đam mỹ, truyện sắc, truyện tiên hiệp, truyện kiếm hiệp, được cập nhật liên tục từ nhiều nguồn khác nhau. Hỗ trợ đọc truyện trên mọi thiết bị.",
+        "type": "novel",
+        "locale": "vi_VN"
+      }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "klmanga",
+    "author": "JustaTama",
+    "version": 3,
+    "source": "https://klmanga.com/",
+    "regexp": "(www.)?kissaway.net/[a-z-]+.html",
+    "description": "Đọc truyện trên trang klmanga.com<br><br>v3: Fix domain",
+    "local": "vi-VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "truyencv",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://m.truyencv.vn/",
+    "regexp": "https://m.truyencv.vn/truyen/[0-9a-z-]+/?$",
+    "description": "TruyenCV.",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

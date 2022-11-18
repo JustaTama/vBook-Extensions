@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "HentaiCB",
+    "author": "JustaTama",
+    "version": 2,
+    "source": "https://hentaicb.top",
+    "regexp": "(www.)?hentaicb.top/manga/.*",
+    "description": "Đọc truyện trên trang hentaicb.top",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

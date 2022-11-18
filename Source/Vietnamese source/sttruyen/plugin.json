@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "ST Truyện",
+    "author": "JustaTama",
+    "version": 5,
+    "source": "https://sttruyen.com",
+    "regexp": "(www.)?sttruyen.com/story/[0-9a-z-]+/?$",
+    "description": "Nếu extention bị lỗi vui lòng liên hệ email: mtama104@yandex.com",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

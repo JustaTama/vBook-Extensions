@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Truyện Wiki",
+    "author": "JustaTama",
+    "version": 2,
+    "source": "https://truyenwiki.net",
+    "regexp": "(www.)?truyenwiki.net/[0-9a-z-]+.\\d+/?",
+    "description": "Đọc truyện trên trang truyenwiki.net",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type" : "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

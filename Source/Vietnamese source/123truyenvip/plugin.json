@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "123TRUYENVIP",
+    "author": "JustaTama",
+    "version": 4,
+    "source": "https://123truyenvip.com",
+    "regexp": "(www.)?123truyenvip.com/[0-9a-z-]+",
+    "description": "Đọc truyện trên trang 123truyenvip.com<br><br>v4: Hot fix",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type" : "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

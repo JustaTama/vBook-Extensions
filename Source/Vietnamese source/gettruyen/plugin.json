@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "GetTruyen",
+    "author": "JustaTama",
+    "version": 3,
+    "source": "https://gettruyen.com",
+    "regexp": "(www.)?((gettruyen.com/[^/+]+/)|(gettruyen.com/[^/+]+))",
+    "description": "Đọc truyện tại trang gettruyen.com<br><br>v3: Chuyển code mới",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

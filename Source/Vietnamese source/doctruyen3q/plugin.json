@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "DocTruyen3Q",
+    "author": "JustaTama",
+    "version": 2,
+    "source": "https://doctruyen3qme.com",
+    "regexp": "(www.)?doctruyen3qme.com/truyen-tranh/[0-9a-z-]+/\\d+/?$",
+    "description": "Đọc truyện tại trang doctruyen3qme.com<br><br>v2: Fix domain<br><br>Notes: Đang bị lỗi đợi fix nhé, vào trang nguồn xem",
+    "locale": "vi-VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag" : "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

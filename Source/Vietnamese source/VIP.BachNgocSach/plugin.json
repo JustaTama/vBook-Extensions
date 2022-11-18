@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "【VIP】Bạch Ngọc Sách",
+    "author": "JustaTama",
+    "version": 5,
+    "source": "https://vip.bachngocsach.com",
+    "regexp": "(www.)?vip.bachngocsach.com/truyen/[0-9a-z-]+/\\d+.html",
+    "description": "Đọc truyện trên trang vip.bachngocsach.com<br><br>v5: Fix lỗi lấy chương",
+    "local": "vi-VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
