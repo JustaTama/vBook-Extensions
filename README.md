@@ -99,27 +99,26 @@ https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/plugin.json
 
 |STT    | Name                           | Source URL                                    |
 | ----- | ------------------------------ | --------------------------------------------- |
-|   1   | 2kxs                           | https://comic.8ternal.com.vn                  |
+|   1   | 2kxs                           | https://k.2kxs.org/                           |
 |   2   | 23shu                          | https://www.23shu.com                         |
 |   3   | 69shu                          | https://www.69shu.io                          |
 |   4   | 230book                        | https://www.230book.net                       |
-|   5   | 250sy                          | https://www.250sy.net                         |
-|   6   | 265xs                          | https://265xs.com                             |
-|   7   | ac.qq.com                      | https://m.ac.qq.com                           |
-|   8   | b.faloo.com                    | https://b.faloo.com                           |
-|   9   | Book QQ                        | https://book.qq.com                           |
-|   10  | CiWeiMao                       | https://www.ciweimao.com                      |
-|   11  | Dingdian                       | https://www.dingdian666.com                   |
-|   12  | Fanqie Novel                   | https://fanqienovel.com                       |
-|   13  | Hetushu                        | https://www.hetushu.com                       |
-|   14  | Lanrenyuhai                    | https://www.oldtimesxs.cc                     |
-|   15  | LiNovel                        | https://www.linovel.net                       |
-|   16  | ManHuaGui.Com                  | https://www.manhuagui.com                     |
-|   17  | mbtxt.la                       | https://www.mbtxt.la                          |
+|   5   | b.faloo.com                    | https://b.faloo.com                           |
+|   6   | Book QQ                        | https://book.qq.com                           |
+|   7   | CiWeiMao                       | https://www.ciweimao.com                      |
+|   8   | Dingdian                       | https://www.dingdian666.com                   |
+|   9   | Fanqie Novel                   | https://fanqienovel.com                       |
+|   10  | LiNovel                        | https://www.linovel.net                       |
+|   11  | LiNovelib                      | https://w.linovelib.com/                      |
+|   12  | m.ac.qq.com                    | https://m.ac.qq.com                           |
+|   13  | ManHuaGui.Com                  | https://www.manhuagui.com                     |
+|   14  | mbtxt.la                       | https://www.mbtxt.la                          |
+|   15  | oldtimesxs                     | https://www.oldtimesxs.cc/                    |
+|   16  | PO18                           | https://www.po18.tw                           |
+|   17  | PTWXC                          | https://www.ptwxc.com                         |
 |   18  | shu05.com                      | https://www.shu05.com                         |
-|   19  | ishuquge                       | https://www.ishuquge.com                      |
-|   20  | tadu.com                       | https://www.tadu.com                          |
-|   21  | yushugu.com                    | https://www.yushugu.com                       |
+|   19  | shuquge                        | http://www.ishuquge.com                       |
+|   20  | yushugu.com                    | https://www.yushugu.com                       |
 
 
 # Hướng dẫn cài đặt

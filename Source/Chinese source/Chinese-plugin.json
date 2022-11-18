@@ -128,10 +128,10 @@
       {
         "name": "腾讯动漫 (Comic)",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq.com/plugin.zip",
         "version": 1,
         "source": "https://m.ac.qq.com",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq/icon.png",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq.com/icon.png",
         "description": "Đọc truyện trên trang m.ac.qq.com",
         "type": "chinese_comic",
         "locale": "zh_CN"
