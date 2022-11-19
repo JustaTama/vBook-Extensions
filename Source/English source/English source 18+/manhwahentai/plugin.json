@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Say Hentai",
+    "name": "ManhwaHentai",
     "author": "JustaTama",
-    "version": 4,
-    "source": "https://sayhentai.vip",
-    "regexp": "(www.)?sayhentai.vip/[^/]+.html$",
-    "description": "Đọc truyện trên trang Say Hentai",
-    "locale": "vi-VN",
+    "version": 1,
+    "source": "https://manhwahentai.me",
+    "regexp": "(www.)?manhwahentai.me/webtoon/[^/]+/?",
+    "description": "Đọc truyện trên trang manhwahentai.me",
+    "local": "en_EN",
     "language": "javascript",
     "type": "comic",
     "tag": "nsfw"

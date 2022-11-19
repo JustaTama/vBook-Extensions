@@ -2,13 +2,14 @@
   "metadata": {
     "name": "Hentaidexy",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://hentaidexy.com",
     "regexp": "(www.)?hentaidexy.com/read/[0-9a-z-]+/?",
     "description": "Đọc truyện tại trang hentaidexy.com",
-    "local": "vi-VN",
+    "local": "en_EN",
     "language": "javascript",
-    "type": "comic"
+    "type": "comic",
+    "tag" : "nsfw"
   },
   "script": {
     "home": "home.js",

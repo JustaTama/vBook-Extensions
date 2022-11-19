@@ -2,11 +2,11 @@
   "metadata": {
     "name": "Doujins",
     "author": "JustaTama",
-    "version": 6,
+    "version": 1,
     "source": "https://doujins.com",
     "regexp": "(www.)?doujins.com/.*/[0-9a-z-]+",
     "description": "Đọc truyện tại trang doujins.com",
-    "local": "en-EN",
+    "local": "en_EN",
     "language": "javascript",
     "type": "comic",
     "tag" : "nsfw"
