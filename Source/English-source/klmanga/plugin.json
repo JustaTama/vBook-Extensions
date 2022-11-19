@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "KL Manga",
+    "name": "KLManga",
     "author": "JustaTama",
     "version": 2,
     "source": "https://klmanga.com/index",
     "regexp": "(www.)?klmanga.com/[a-z-]+.html",
     "description": "Đọc truyện trên trang klmanga.com <br><br> V2: Fix domain, website cũ là kissaway.net",
-    "local": "en_EN",
+    "locale": "en_EN",
     "language": "javascript",
     "type": "comic"
   },

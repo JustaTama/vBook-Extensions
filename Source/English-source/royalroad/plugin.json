@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Royal Road",
+    "name": "RoyalRoad",
     "author": "JustaTama",
     "version": 1,
     "source": "https://www.royalroad.com",
     "regexp": "(www.)?royalroad.com/fiction/(\\d+)/[A-Za-z-].+",
-    "description": "Royal Road® is the home of web novels and fan fictions! In our amazing community, you can find various talented individuals who write as a hobby or even professionally, artists who create art for them, and many, many readers who provide valuable feedback and encouragement.",
-    "locale": "en-EN",
+    "description": "Đọc truyện trên trang www.royalroad.com",
+    "locale": "en_EN",
     "language": "javascript",
     "type": "novel"
   },

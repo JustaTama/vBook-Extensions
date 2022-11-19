@@ -5,7 +5,7 @@
     },
     "data": [
       {
-        "name": "KL Manga",
+        "name": "KLManga",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/klmanga/plugin.zip",
         "version": 2,
@@ -28,25 +28,25 @@
 
       },
       {
-        "name": "ManhwaHentai",
+        "name": "NovelBuddy",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/manhwahentai/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/novelbuddy/plugin.zip",
         "version": 1,
-        "source": "https://manhwahentai.me",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/manhwahentai/icon.png",
-        "description": "Đọc truyện trên trang manhwahentai.me",
-        "type": "comic",
+        "source": "https://novelbuddy.com/home-page",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/novelbuddy/icon.png",
+        "description": "Đọc truyện trên trang novelbuddy.com",
+        "type": "novel",
         "locale": "en_EN"
       },
       {
-        "name": "Tsumino",
+        "name": "RoyalRoad",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/Tsumino/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/royalroad/plugin.zip",
         "version": 1,
-        "source": "https://www.tsumino.com",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/Tsumino/icon.png",
-        "description": "Đọc truyện trên trang www.tsumino.com",
-        "type": "comic",
+        "source": "https://www.royalroad.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/royalroad/icon.png",
+        "description": "Đọc truyện trên trang www.royalroad.com",
+        "type": "novel",
         "locale": "en_EN"
       }
     ]

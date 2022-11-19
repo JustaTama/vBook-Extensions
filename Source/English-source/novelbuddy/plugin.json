@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Novel Buddy",
+    "name": "NovelBuddy",
     "author": "JustaTama",
     "version": 1,
     "source": "https://novelbuddy.com",
     "regexp": "(www.)?novelbuddy.com/[0-9a-z-]+/?$",
-    "description": "Mô tả",
-    "local": "vi-VN",
+    "description": "Đọc truyện trên trang novelbuddy.com",
+    "locale": "en_EN",
     "language": "javascript",
     "type": "novel"
   },

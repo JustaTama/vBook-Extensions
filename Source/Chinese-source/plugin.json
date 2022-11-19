@@ -133,7 +133,7 @@
         "source": "https://m.ac.qq.com",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese-source/m.ac.qq.com/icon.png",
         "description": "Đọc truyện trên trang m.ac.qq.com",
-        "type": "chinese_comic",
+        "type": "comic",
         "locale": "zh_CN"
       },
       {
