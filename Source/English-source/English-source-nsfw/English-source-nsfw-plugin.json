@@ -1,0 +1,56 @@
+{
+    "metadata": {
+      "author": "JustaTama",
+      "description": "English-source-nsfw-plugin"
+    },
+    "data": [
+      {
+        "name": "Doujins",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/English-source-nsfw/doujins/plugin.zip",
+        "version": 1,
+        "source": "https://doujins.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/English-source-nsfw/doujins/icon.png",
+        "description": "Đọc truyện trên trang doujins.com",
+        "type": "comic",
+        "locale": "en_EN",
+        "tag" : "nsfw"
+      },
+      {
+        "name": "Hentaidexy",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/English-source-nsfw/hentaidexy/plugin.zip",
+        "version": 1,
+        "source": "https://hentaidexy.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/English-source-nsfw/hentaidexy/icon.png",
+        "description": "Đọc truyện trên trang hentaidexy.com",
+        "type": "comic",
+        "locale": "en_EN",
+        "tag" : "nsfw"
+      },
+      {
+        "name": "ManhwaHentai",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/English-source-nsfw/manhwahentai/plugin.zip",
+        "version": 1,
+        "source": "https://manhwahentai.me",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/English-source-nsfw/manhwahentai/icon.png",
+        "description": "Đọc truyện trên trang manhwahentai.me",
+        "type": "comic",
+        "locale": "en_EN",
+        "tag" : "nsfw"
+      },
+      {
+        "name": "Tsumino",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/English-source-nsfw/Tsumino/plugin.zip",
+        "version": 1,
+        "source": "https://www.tsumino.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/English-source-nsfw/Tsumino/icon.png",
+        "description": "Đọc truyện trên trang www.tsumino.com",
+        "type": "comic",
+        "locale": "en_EN",
+        "tag" : "nsfw"
+      }
+    ]
+  }

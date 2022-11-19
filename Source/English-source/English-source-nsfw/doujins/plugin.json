@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://doujins.com",
     "regexp": "(www.)?doujins.com/.*/[0-9a-z-]+",
-    "description": "Đọc truyện tại trang doujins.com",
+    "description": "Đọc truyện trên trang doujins.com",
     "local": "en_EN",
     "language": "javascript",
     "type": "comic",
