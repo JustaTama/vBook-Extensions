@@ -13,20 +13,19 @@
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/klmanga/icon.png",
         "description": "Đọc truyện trên trang klmanga.com",
         "type": "comic",
-        "locale": "en_EN",
-        "tag" : "nsfw"
+        "locale": "en_EN"
       },
       {
-        "name": "Hentaidexy",
+        "name": "MangaForest",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/hentaidexy/plugin.zip",
-        "version": 1,
-        "source": "https://hentaidexy.com",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/hentaidexy/icon.png",
-        "description": "Đọc truyện trên trang hentaidexy.com",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/mangaforest/plugin.zip",
+        "version": 2,
+        "source": "https://mangaforest.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/mangaforest/icon.png",
+        "description": "Đọc truyện trên trang mangaforest.com",
         "type": "comic",
-        "locale": "en_EN",
-        "tag" : "nsfw"
+        "locale": "en_EN"
+
       },
       {
         "name": "ManhwaHentai",
@@ -37,8 +36,7 @@
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/manhwahentai/icon.png",
         "description": "Đọc truyện trên trang manhwahentai.me",
         "type": "comic",
-        "locale": "en_EN",
-        "tag" : "nsfw"
+        "locale": "en_EN"
       },
       {
         "name": "Tsumino",
@@ -49,8 +47,7 @@
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/Tsumino/icon.png",
         "description": "Đọc truyện trên trang www.tsumino.com",
         "type": "comic",
-        "locale": "en_EN",
-        "tag" : "nsfw"
+        "locale": "en_EN"
       }
     ]
   }
