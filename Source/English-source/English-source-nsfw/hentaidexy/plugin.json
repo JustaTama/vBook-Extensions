@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://hentaidexy.com",
     "regexp": "(www.)?hentaidexy.com/read/[0-9a-z-]+/?",
-    "description": "Đọc truyện tại trang hentaidexy.com",
+    "description": "Đọc truyện trên trang hentaidexy.com",
     "local": "en_EN",
     "language": "javascript",
     "type": "comic",
