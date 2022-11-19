@@ -9,7 +9,7 @@ function execute(url) {
             data.push({
                 name: e.text(),
                 url: e.attr("href"),
-                host: "https://mangabuddy.com"
+                host: "https://doctruyen3qme.com"
             })
         }
         return Response.success(data);
