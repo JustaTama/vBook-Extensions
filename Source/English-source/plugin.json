@@ -10,7 +10,7 @@
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/klmanga/plugin.zip",
         "version": 2,
         "source": "https://klmanga.com/",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/klmanga/icon.png",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/klmanga/icon.png",
         "description": "Đọc truyện trên trang klmanga.com",
         "type": "comic",
         "locale": "en_EN"
@@ -21,7 +21,7 @@
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/mangaforest/plugin.zip",
         "version": 2,
         "source": "https://mangaforest.com",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/mangaforest/icon.png",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/mangaforest/icon.png",
         "description": "Đọc truyện trên trang mangaforest.com",
         "type": "comic",
         "locale": "en_EN"
@@ -33,7 +33,7 @@
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/manhwahentai/plugin.zip",
         "version": 1,
         "source": "https://manhwahentai.me",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/manhwahentai/icon.png",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/manhwahentai/icon.png",
         "description": "Đọc truyện trên trang manhwahentai.me",
         "type": "comic",
         "locale": "en_EN"
@@ -44,7 +44,7 @@
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/Tsumino/plugin.zip",
         "version": 1,
         "source": "https://www.tsumino.com",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/English-source/Tsumino/icon.png",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/English-source/Tsumino/icon.png",
         "description": "Đọc truyện trên trang www.tsumino.com",
         "type": "comic",
         "locale": "en_EN"
