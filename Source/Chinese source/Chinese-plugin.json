@@ -1,7 +1,7 @@
 {
     "metadata": {
       "author": "JustaTama",
-      "description": "Chinese Source"
+      "description": "Chinese-Source"
     },
     "data": [
       {
@@ -49,7 +49,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "飞卢小说网",
+        "name": "飞卢小说网 (bfaloo)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/bfaloo/plugin.zip",
         "version": 1,
@@ -60,7 +60,7 @@
         "locale": "zh_CN"
       },      
       {
-        "name": "QQ阅读",
+        "name": "QQ阅读 (bookqq)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/bookqq/plugin.zip",
         "version": 1,
@@ -71,7 +71,7 @@
         "locale": "zh_CN"
       },      
       {
-        "name": "刺猬猫",
+        "name": "刺猬猫 (ciweimao)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/ciweimao/plugin.zip",
         "version": 1,
@@ -82,7 +82,7 @@
         "locale": "zh_CN"
       },      
       {
-        "name": "Dingdiang",
+        "name": "dingdiang",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/dingdian/plugin.zip",
         "version": 1,
@@ -104,7 +104,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "轻之文库轻小说",
+        "name": "轻之文库轻小说 (linovel)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/linovel/plugin.zip",
         "version": 2,
@@ -115,7 +115,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "哔哩轻小说",
+        "name": "哔哩轻小说 (linovelib)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/linovelib/plugin.zip",
         "version": 2,
@@ -126,7 +126,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "腾讯动漫 (Comic)",
+        "name": "腾讯动漫 (ACQQ-Comic)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/m.ac.qq.com/plugin.zip",
         "version": 1,
@@ -137,7 +137,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "漫画大全",
+        "name": "漫画大全 (manhuagui)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/manhuagui/plugin.zip",
         "version": 1,
@@ -148,7 +148,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "妙笔文学网",
+        "name": "妙笔文学网 (mbtxt)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/mbtxt/plugin.zip",
         "version": 1,
@@ -159,7 +159,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "旧时光文学",
+        "name": "旧时光文学 (oldtimesxs)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/oldtimesxs/plugin.zip",
         "version": 2,
@@ -181,7 +181,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "飄天文學",
+        "name": "飄天文學 (ptwxc)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/ptwxc/plugin.zip",
         "version": 1,
@@ -192,7 +192,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "书屋小说网",
+        "name": "书屋小说网 (shu05)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/shu05/plugin.zip",
         "version": 1,
@@ -203,7 +203,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "书趣阁",
+        "name": "书趣阁 (shuquge)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/shuquge/plugin.zip",
         "version": 1,
@@ -214,7 +214,7 @@
         "locale": "zh_CN"
       },
       {
-        "name": "御书网",
+        "name": "御书网 (yushugu)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Chinese%20source/yushugu/plugin.zip",
         "version": 2,
