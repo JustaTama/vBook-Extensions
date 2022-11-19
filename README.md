@@ -65,36 +65,25 @@ https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/plugin.json
 |   34  | Yocomic                        | https://yocomic.com                           |
 |   35  | ZingTruyen.Net                 | https://zingtruyen.net                        |
 |   36  | zTruyen.vn                     | https://ztruyen.vn                            |
+
 ## Source English
 
 |STT    | Name                           | Source URL                                    |
 | ----- | ------------------------------ | --------------------------------------------- |
-|   1   | Hentaidexy                     | https://hentaidexy.com                        |
-|   2   | KL-Manga                       | https://klmanga.com                           |
-|   3   | Manga Forest                   | https://mangaforest.com                       |
-|   4   | ManhwaManga.Net                | https://manhwamanga.net                       |
-|   5   | NovelBuddy                     | https://novelbuddy.com/home-page              | Novel
-|   6   | ReadManhwa.com                 | https://readmanhwa.com/en/                    | CloudFlare
-|   7   | Webnovel                       | https://www.webnovel.com                      |
-|   8   | Webtoon XYZ                    | https://www.webtoon.xyz                       |
-|   9   | Wuxiaworld                     | https://www.wuxiaworld.com                    |
-## Source 18+
+|   1   | KLManga                        | https://klmanga.com                           |
+|   2   | MangaForest                    | https://mangaforest.com                       |
+|   3   | NovelBuddy                     | https://novelbuddy.com/home-page              |
+|   4   | Royal Road                     | https://www.royalroad.com/home                |
 
-• VN
-
-|STT    | Name                           | Source URL                                    |
-| ----- | ------------------------------ | --------------------------------------------- |
-|   1   | HentaiCB                       | https://hentaicb.top                          |
-|   2   | LxHentai                       | https://lxhentai.org                          |
-
-
-• English
+• 18+
 
 |STT    | Name                           | Source URL                                    |
 | ----- | ------------------------------ | --------------------------------------------- |
 |   1   | Doujins.com                    | https://doujins.com                           |
-|   2   | Hentaidexy                     | https://hentaidexy.com                        | Error Load
-|   3   | ManhwaHentai.me                | https://manhwahentai.me                       |
+|   2   | Hentaidexy                     | https://hentaidexy.com                        |
+|   3   | ManhwaHentai                   | https://manhwahentai.me                       |
+|   4   | Tsumino                        | https://manhwahentai.me                       |
+
 ## Source Chinese
 
 |STT    | Name                           | Source URL                                    |
