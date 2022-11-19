@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "name": "Docsach24",
+    "name": "docsach24",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://docsach24.co",
     "regexp": "https://docsach24.co/e-book/(.*?).html",
     "description": "Đọc truyện trên trang docsach24.co",

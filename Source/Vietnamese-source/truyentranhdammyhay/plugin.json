@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Truyện Tranh Đam Mỹ Hay",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://truyentranhdammyhay.com/",
+    "regexp": "(www.)?truyentranhdammyhay.com/[^/].+/?$",
+    "description": "Đọc truyện trên trang truyentranhdammyhay.com",
+    "local": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

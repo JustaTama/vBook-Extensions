@@ -2,10 +2,10 @@
   "metadata": {
     "name": "DocTruyen3Q",
     "author": "JustaTama",
-    "version": 2,
-    "source": "https://doctruyen3qme.com",
+    "version": 1,
+    "source": "https://doctruyen3qme.com/",
     "regexp": "(www.)?doctruyen3qme.com/truyen-tranh/[0-9a-z-]+/\\d+/?$",
-    "description": "Đọc truyện tại trang doctruyen3qme.com",
+    "description": "Đọc truyện trên trang doctruyen3qme.com",
     "locale": "vi_VN",
     "language": "javascript",
     "type": "comic",

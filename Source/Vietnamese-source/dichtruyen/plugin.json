@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "DichTruyen",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://dichtruyentranh.com/",
+    "regexp": "(www.)?dichtruyentranh.com/truyen/[^/]+/?$",
+    "description": "Đọc truyện trên trang dichtruyentranh.com",
+    "local": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

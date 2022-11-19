@@ -2,7 +2,7 @@
   "metadata": {
     "name": "CManga",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://cmangad.com",
     "regexp": "(www.)?cmangad.com/[0-9a-z-]+",
     "description": "Đọc truyện trên trang cmangad.com <br><br> Site mã hoá nên load chậm hơn bình thường.",

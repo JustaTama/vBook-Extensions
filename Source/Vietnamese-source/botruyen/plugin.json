@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "BoTruyen",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://botruyen.vip/",
+    "regexp": "https://botruyen.vip/book/(.*?)/?$",
+    "description": "Đọc truyện trên trang botruyen.vip",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "new": "new.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

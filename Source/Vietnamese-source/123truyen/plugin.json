@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "name": "123Truyen",
+    "name": "123Truyện",
     "author": "JustaTama",
     "version": 1,
     "source": "https://123truyenvip.com",
@@ -8,7 +8,7 @@
     "description": "Đọc truyện trên trang 123truyenvip.com",
     "locale": "vi_VN",
     "language": "javascript",
-    "type" : "novel"
+    "type": "novel"
   },
   "script": {
     "home": "home.js",
