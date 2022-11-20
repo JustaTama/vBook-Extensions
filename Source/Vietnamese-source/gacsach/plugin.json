@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Gác Sách",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://gacsach.club",
+    "regexp": "(www.)?gacsach.(com|club)(/(doc-)?sach-truc-tuyen/\\d+/.*?.html$|/[^/]+/?$)",
+    "description": "Đọc truyện trên trang gacsach.club",
+    "locale": "vi_VN",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

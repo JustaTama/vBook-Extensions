@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "DTruyện",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://dtruyen.com",
+    "regexp": "(www.)?(webtruyen|dtruyen).com/[^/]+/?$",
+    "description": "Đọc truyện trên trang dtruyen.com",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

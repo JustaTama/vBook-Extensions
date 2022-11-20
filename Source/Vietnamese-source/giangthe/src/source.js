@@ -5,7 +5,7 @@ function execute(id, page) {
         queries: {
             page : page,
             category : id,
-            sort : '3',
+            sort : '0',
         }
     });
     if (response.ok) {

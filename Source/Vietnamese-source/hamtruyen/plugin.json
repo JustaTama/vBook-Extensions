@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "name": "Ham Truyện",
+    "name": "HamTruyen",
     "author": "JustaTama",
-    "version": 8,
+    "version": 1,
     "source": "https://hamtruyenmoi.com",
     "regexp": "(www.)?(m.)?hamtruyen(moi)?.(com|vn)/(truyen/)?[0-9a-z-]+.html",
-    "description": "Đọc truyện tranh trên trang hamtruyenmoi.com",
-    "locale": "vi-VN",
+    "description": "Đọc truyện trên trang hamtruyenmoi.com",
+    "locale": "vi_VN",
     "language": "javascript",
-	"type": "novel"
+	  "type": "comic,novel"
   },
   "script": {
     "home": "home.js",

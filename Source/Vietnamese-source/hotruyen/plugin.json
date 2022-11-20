@@ -2,11 +2,11 @@
   "metadata": {
     "name": "Hố Truyện",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://hotruyen.com",
     "regexp": "(www.)?hotruyen.com/truyen/[^/+]+",
-    "description": "Đọc truyện trên trang Hotruyen.net<br><br>Notes: Mở trang nguồn bypass Cloudfare rồi xem.",
-    "local": "vi-VN",
+    "description": "Đọc truyện trên trang hotruyen.com",
+    "local": "vi_VN",
     "language": "javascript",
     "type": "novel"
   },

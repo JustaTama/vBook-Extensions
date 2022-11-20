@@ -1,5 +1,5 @@
 function execute() {
     return Response.success([
-        {title: "Nam Sinh", input: "https://hotruyen.com/nam-sinh", script: "gen.js"}
+        {title: "Mới Cập Nhật", input: "https://hotruyen.com/", script: "gen.js"}
     ]);
 }

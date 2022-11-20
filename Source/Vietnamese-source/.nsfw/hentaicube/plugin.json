@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "name": "HentaiCB",
-    "author": "JustaTama",
+    "name": "Hentai Cube",
+    "author": "Nhocconsr",
     "version": 2,
     "source": "https://hentaicb.top",
     "regexp": "(www.)?hentaicb.top/manga/.*",

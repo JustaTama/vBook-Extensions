@@ -1,0 +1,45 @@
+```javascript
+{
+  "metadata": {
+    "name": "Giáng Thế",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://giangthe.com/",
+    "regexp": "(www.)?giangthe.com/truyen/\\d+",
+    "description": "Đọc truyện trên trang giangthe.com",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  }
+}
+```
+
+# Quy tắc tìm kiếm truyện
+Số chương: count_chapter   | 0:Tất cả, 50:>50, 100:>100, 200:>200, 500:>500, 1000:>1000, 1500:>1500, 2000:>2000
+Sắp xếp: sort              | 0:Không sắp xếp, 1:Mới nhập kho, 2:Số lượt đọc tổng, 3:Mới cập nhật, 4:Số lượt theo dõi, 5:Số lượt thích, 6:Số lượt yêu cầu vip, 7:Lượt đọc ngày, 8:Lượt đọc tuần
+Loại truyện: type          | 0:Tất cả, sangtac:Truyện sáng tác, trans:Truyện dịch, vip:Truyện vip
+Thể loại: category         | 0:Tất cả, 1:Huyễn huyễn, 2:Đô thị, 3:Võ hiệp/tiên hiệp, 4:Lịch sử/quân sự, 5:Đồng nhân, 6:Linh dị, 7:Võng du/cạnh kỹ, 8:Tiểu thuyết nữ, 9:Ngôn tình, 10:Tiểu thuyết nhẹ, 11:Truyện Sắc, 12:Đam Mỹ, 13:Bách hợp  
+Trạng thái: status         | 0:Tất cả, 3:Hoàn thành, 2:Còn tiếp
+
+File script sử dụng: gen(x).js   //Chú thích: Khai báo x , x là một số bất kỳ.
+                     home.js
+
+/Câu lệnh được sử dụng trong gen(x).js:
+```javascript 
+//Chú thích: Giá trị mặc định: ''
+        queries: {
+            page : page,
+            type : url,
+            count_chapter : 'x',
+            sort : 'x',
+            category : 'x',
+            status : 'x',
+        }
+
+```
+/Câu lệnh được sử dụng trong home.js:
+```javascript
+        {title: "xxx", input: "xxx", script: "gen(x).js"},  //Title: Nội dung hiển thị trên vBook-App , input=type
+```
+
+

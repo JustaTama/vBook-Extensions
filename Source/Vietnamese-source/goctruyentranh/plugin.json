@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Góc Truyện Tranh",
+    "name": "GocTruyenTranh",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://goctruyentranhhay.com/",
     "regexp": "(www.)?goctruyentranhhay.com/truyen/[A-Za-z].+/?",
-    "description": "Đọc truyện tại trang goctruyentranhhay.com",
-    "locale": "vi-VN",
+    "description": "Đọc truyện trên trang goctruyentranhhay.com",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "comic"
   },
