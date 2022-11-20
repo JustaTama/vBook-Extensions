@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "sachhayonline",
+    "name": "SachHayOnline",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://www.sachhayonline.com/",
     "regexp": "(www.)?sachhayonline.com/tua-sach/[A-Za-z].+/?$",
-    "description": "Sách Hay Online: Đọc Sách Hay trực tuyến miễn phí, thư viện sách online miễn phí chọn lọc hay nhất, đọc truyện online, sách văn học, lịch sử, truyện ngắn, truyện cười",
-    "locale": "vi-VN",
+    "description": "Đọc sách trên trang sachhayonline.com",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"
   },

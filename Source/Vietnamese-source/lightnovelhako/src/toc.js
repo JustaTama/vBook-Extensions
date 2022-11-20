@@ -1,5 +1,5 @@
 function execute(url) {
-    url = url.replace("ln.hako.re","ln.hako.vn");
+    url = url.replace("docln.net","ln.hako.vn");
     let response = fetch(url);
     if (response.ok) {
         let doc = response.html();
@@ -16,7 +16,7 @@ function execute(url) {
                 list.push({
                     name: name,
                     url: chapter.select(".chapter-name").select("a").first().attr("href"),
-                    host: "https://ln.hako.vn"
+                    host: "https://docln.net"
                 });
 
             }

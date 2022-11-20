@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "NetTruyen",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://www.nettruyenin.com/",
+    "regexp": "(www.)?(nhattruyen.com|nettruyen.com|nettruyentop.com|nettruyenvip.com|nettruyenpro.com|nettruyengo.com|nettruyenmoi.com|nettruyenone.com|nettruyenco.com|nettruyenme.com|nettruyenin.com)/truyen-tranh/[^/]+/?$",
+    "description": "Đọc truyện trên trang NetTruyen",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

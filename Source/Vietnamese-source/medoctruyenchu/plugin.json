@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "MeDocTruyenChu",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://www.medoctruyenchu.net",
+    "regexp": "(www.|m.)?medoctruyenchu.net/tieu-thuyet/[0-9a-z-]+\\d+/?$",
+    "description": "Đọc truyện trên trang medoctruyenchu.net",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

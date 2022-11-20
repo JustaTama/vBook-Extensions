@@ -1,5 +1,5 @@
 function execute(url, page) {
-    url = url.replace("ln.hako.re","ln.hako.vn");
+    url = url.replace("docln.net","ln.hako.vn");
     if (!page) page = '1';
     let response = fetch(url, {
         method: "GET",
@@ -19,7 +19,7 @@ function execute(url, page) {
                 link: e.select(".series-title a").attr("href"),
                 description: e.select(".chapter-title").text(),
                 cover: e.select(".img-in-ratio").attr("data-bg"),
-                host: "https://ln.hako.vn"
+                host: "https://docln.net"
             });
         });
 

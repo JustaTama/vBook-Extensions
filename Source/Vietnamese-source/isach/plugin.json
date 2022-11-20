@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "iSach",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://isach.info",
+    "regexp": "(www.)?isach.info/(mobile/)?story.php.story=[^/&]+/?$",
+    "description": "Đọc truyện trên trang isach.info",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

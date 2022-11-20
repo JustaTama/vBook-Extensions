@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "MeTruyenChu",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://metruyencv.com",
+    "regexp": "(www.)?(metruyenchu|mtccv|metruyencv).com/truyen/[a-zA-Z0-9-]+/?$",
+    "description": "Đọc truyện trên trang metruyencv.com",
+    "locale": "vi_VN",
+    "language": "javascript"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js"
+  }
+}

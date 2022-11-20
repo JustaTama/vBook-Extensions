@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "Hako Novel",
-    "author": "vBook",
-    "version": 9,
-    "source": "https://ln.hako.vn",
-    "regexp": "(www.)?(ln.hako.vn|ln.hako.re|docln.net)/[^/]+/[^/]+/?$",
-    "description": "Đọc truyện trên trang Hako",
+    "name": "LightNovelHako",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://docln.net/",
+    "regexp": "(www.)?(ln.hako.vn|docln.net)/[^/]+/[^/]+/?$",
+    "description": "Đọc truyện trên trang docln.net",
     "locale": "vi_VN",
     "type": "novel",
     "language": "javascript"

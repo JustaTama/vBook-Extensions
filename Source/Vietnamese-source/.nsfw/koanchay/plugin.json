@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "name": "Koanchay",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://koanchay.com",
+    "regexp": "(www.)?koanchay.(com|net)/truyen/[^/]+/?$",
+    "description": "Đọc truyện trên trang koanchay.com",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "thread_num": 1,
+    "delay": 1500
+  }
+}

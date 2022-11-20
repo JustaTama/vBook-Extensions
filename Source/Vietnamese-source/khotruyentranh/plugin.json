@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "name": "Kho Truyện Tranh",
+    "name": "KhoTruyenTranh",
     "author": "JustaTama",
-    "version": 4,
-    "source": "https://khotruyentranhhot.com/",
+    "version": 1,
+    "source": "https://khotruyentranhhot.com",
     "regexp": "(www.)?khotruyentranhhot.com/truyen/[0-9a-z-]+",
-    "description": "Đọc truyện trên trang khotruyentranhhot.com<br><br>v4: Fix domain",
-    "locale": "vi-VN",
+    "description": "Đọc truyện trên trang khotruyentranhhot.com",
+    "locale": "vi_VN",
     "language": "javascript",
-    "type": "comic"
+    "type": "comic",
+    "tag": "nsfw"
   },
   "script": {
     "home": "home.js",

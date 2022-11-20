@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "MeDocTruyenTranh",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://www.medoctruyentranh.net",
+    "regexp": "(www.|m.)?medoctruyentranh.net/truyen-tranh/[0-9a-z-]+\\d+/?$",
+    "description": "Đọc truyện trên trang medoctruyentranh.net",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

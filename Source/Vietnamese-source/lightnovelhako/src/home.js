@@ -1,29 +1,34 @@
 function execute() {
     return Response.success([
         {
-            title: "Mới cập nhật",
+            title: "Mới Cập Nhật",
             script: "gen.js",
-            input: "https://ln.hako.vn/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=capnhat"
+            input: "https://docln.net/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=capnhat"
         },
         {
-            title: "Truyện mới",
+            title: "Truyện Mới",
             script: "gen.js",
-            input: "https://ln.hako.vn/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=truyenmoi"
+            input: "https://docln.net/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=truyenmoi"
         },
         {
-            title: "Theo dõi",
+            title: "Theo Dõi Nhiều",
             script: "gen.js",
-            input: "https://ln.hako.vn/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=theodoi"
+            input: "https://docln.net/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=theodoi"
         },
         {
-            title: "Top toàn thời gian",
+            title: "Top Toàn Thời Gian",
             script: "gen.js",
-            input: "https://ln.hako.vn/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=top"
+            input: "https://docln.net/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=top"
         },
         {
-            title: "Top tháng",
+            title: "Top Tháng",
             script: "gen.js",
-            input: "https://ln.hako.vn/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=topthang"
-        }
+            input: "https://docln.net/danh-sach?truyendich=1&sangtac=1&convert=1&dangtienhanh=1&tamngung=1&hoanthanh=1&sapxep=topthang"
+        },
+        {
+            title: "Đã Hoàn Thành",
+            script: "gen.js",
+            input: "https://docln.net/danh-sach?truyendich=1&sangtac=1&convert=1&hoanthanh=1&sapxep=capnhat"
+        },
     ]);
 }
