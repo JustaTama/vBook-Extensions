@@ -8,8 +8,7 @@
     "description": "Đọc truyện trên trang khotruyentranhhot.com",
     "locale": "vi_VN",
     "language": "javascript",
-    "type": "comic",
-    "tag": "nsfw"
+    "type": "comic"
   },
   "script": {
     "home": "home.js",

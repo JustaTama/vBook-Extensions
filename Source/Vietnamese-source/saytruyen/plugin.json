@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "Say Truyện",
-    "author": "vBook",
-    "version": 4,
+    "name": "SayTruyện",
+    "author": "JustaTama",
+    "version": 1,
     "source": "https://saytruyen.tv",
     "regexp": "(www.)?saytruyen.(net|tv)/[^/]+.html$",
-    "description": "Đọc truyện trên trang Say Truyện",
+    "description": "Đọc truyện trên trang saytruyen.tv",
     "locale": "vi_VN",
     "language": "javascript",
 	"type": "comic"

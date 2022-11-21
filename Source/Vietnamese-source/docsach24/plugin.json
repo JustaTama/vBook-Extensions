@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://docsach24.co",
     "regexp": "https://docsach24.co/e-book/(.*?).html",
-    "description": "Đọc truyện trên trang docsach24.co",
+    "description": "Đọc sách trên trang docsach24.co",
     "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"

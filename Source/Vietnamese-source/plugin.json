@@ -33,7 +33,7 @@
         "version": 1,
         "source": "https://bachngocsach.com/reader",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/bachngocsach/icon.png",
-        "description": "Đọc truyện trên trang bachngocsach.com/reader",
+        "description": "Đọc truyện trên trang bachngocsach.com",
         "type": "novel",
         "locale": "vi_VN"
       },
@@ -110,8 +110,19 @@
         "version": 1,
         "source": "https://docsach24.co/",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/docsach24/icon.png",
-        "description": "Đọc truyện trên trang docsach24.co",
+        "description": "Đọc sách trên trang docsach24.co",
         "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "DocTruyen3Q",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/doctruyen3q/plugin.zip",
+        "version": 1,
+        "source": "https://doctruyen3qme.com/",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/doctruyen3q/icon.png",
+        "description": "Đọc truyện trên trang doctruyen3qme.com",
+        "type": "comic",
         "locale": "vi_VN"
       },
       {
@@ -132,7 +143,7 @@
         "version": 1,
         "source": "https://gacsach.club",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/gacsach/icon.png",
-        "description": "Đọc truyện trên trang gacsach.club",
+        "description": "Đọc sách trên trang gacsach.club",
         "type": "novel",
         "locale": "vi_VN"
       },
@@ -203,6 +214,17 @@
         "locale": "vi_VN"
       },
       {
+        "name": "isach",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/isach/plugin.zip",
+        "version": 1,
+        "source": "https://isach.info",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/isach/icon.png",
+        "description": "Đọc truyện trên trang isach.info",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
         "name": "KhoTruyenTranh",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/khotruyentranh/plugin.zip",
@@ -211,7 +233,6 @@
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/khotruyentranh/icon.png",
         "description": "Đọc truyện trên trang khotruyentranhhot.com",
         "type": "comic",
-        "tag": "nsfw",
         "locale": "vi_VN"
       },
       {
@@ -233,7 +254,7 @@
         "source": "https://luvevaland.co",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/lustaveland/icon.png",
         "description": "Đọc truyện trên trang luvevaland.co",
-        "type": "comic",
+        "type": "comic,novel",
         "locale": "vi_VN"
       },
       {
@@ -292,46 +313,24 @@
         "locale": "vi_VN"
       },
       {
-        "name": "xxx",
+        "name": "Ngôn Phong",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/ngonphong/plugin.zip",
         "version": 1,
-        "source": "xxx",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
-        "description": "Đọc truyện trên trang xxx",
+        "source": "https://www.ngonphong.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/ngonphong/icon.png",
+        "description": "Đọc truyện trên trang www.ngonphong.com",
         "type": "comic",
         "locale": "vi_VN"
       },
       {
-        "name": "xxx",
+        "name": "qmanga",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/qmanga/plugin.zip",
         "version": 1,
-        "source": "xxx",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
-        "description": "Đọc truyện trên trang xxx",
-        "type": "comic",
-        "locale": "vi_VN"
-      },
-      {
-        "name": "xxx",
-        "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
-        "version": 1,
-        "source": "xxx",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
-        "description": "Đọc truyện trên trang xxx",
-        "type": "comic",
-        "locale": "vi_VN"
-      },
-      {
-        "name": "xxx",
-        "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
-        "version": 1,
-        "source": "xxx",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
-        "description": "Đọc truyện trên trang xxx",
+        "source": "https://qmanga4.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/qmanga/icon.png",
+        "description": "Đọc truyện trên trang qmanga",
         "type": "comic",
         "locale": "vi_VN"
       },
@@ -343,6 +342,28 @@
         "source": "https://www.sachhayonline.com/",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/sachhayonline/icon.png",
         "description": "Đọc sách trên trang sachhayonline.com",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "SayTruyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/saytruyen/plugin.zip",
+        "version": 1,
+        "source": "https://saytruyen.tv",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/saytruyen/icon.png",
+        "description": "Đọc truyện trên trang saytruyen.tv",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "SSTruyện",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/sstruyen/plugin.zip",
+        "version": 1,
+        "source": "https://sstruyen.vn",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/sstruyen/icon.png",
+        "description": "Đọc sách trên trang sstruyen.vn",
         "type": "novel",
         "locale": "vi_VN"
       },

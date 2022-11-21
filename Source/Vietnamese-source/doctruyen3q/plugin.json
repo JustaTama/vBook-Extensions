@@ -8,8 +8,7 @@
     "description": "Đọc truyện trên trang doctruyen3qme.com",
     "locale": "vi_VN",
     "language": "javascript",
-    "type": "comic",
-    "tag" : "nsfw"
+    "type": "comic"
   },
   "script": {
     "home": "home.js",

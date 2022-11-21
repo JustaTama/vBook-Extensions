@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "QManga",
-    "author": "vBook",
-    "version": 6,
-    "source": "https://qmanga3.net",
-    "regexp": "(www.)?(qmanga|qmanga2|qmanga3).(net|co|com)/[^/]+.html$",
-    "description": "Đọc truyện trên trang QManga",
+    "name": "qmanga",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://qmanga4.com",
+    "regexp": "(www.)?(qmanga|qmanga2|qmanga3|qmanga4).(net|co|com)/[^/]+.html$",
+    "description": "Đọc truyện trên trang qmanga",
     "locale": "vi_VN",
     "language": "javascript",
     "type": "comic"

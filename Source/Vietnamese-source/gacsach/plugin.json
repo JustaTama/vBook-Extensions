@@ -5,7 +5,7 @@
     "version": 1,
     "source": "https://gacsach.club",
     "regexp": "(www.)?gacsach.(com|club)(/(doc-)?sach-truc-tuyen/\\d+/.*?.html$|/[^/]+/?$)",
-    "description": "Đọc truyện trên trang gacsach.club",
+    "description": "Đọc sách trên trang gacsach.club",
     "locale": "vi_VN",
     "language": "javascript"
   },

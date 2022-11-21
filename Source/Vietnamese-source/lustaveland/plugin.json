@@ -6,10 +6,9 @@
     "source": "https://luvevaland.co",
     "regexp": "(www.)?(lustaveland.com|luvevaland.co)/(truyen|truyen-tranh|tieu-thuyet)/[^/]+/?$",
     "description": "Đọc truyện trên trang luvevaland.co <br><br> Nhập password 01050106 để đọc được truyện",
-    "local": "vi_VN",
+    "locale": "vi_VN",
     "language": "javascript",
-    "type": "comic,novel",
-    "tag":"nsfw"
+    "type": "comic,novel"
   },
   "script": {
     "home": "home.js",

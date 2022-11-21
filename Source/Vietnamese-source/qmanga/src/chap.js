@@ -1,8 +1,8 @@
 function execute(url) {
     url = url.replace("qmanga.net", "qmanga.co");
     url = url.replace("qmanga.co", "qmanga2.net");
-    url = url.replace("qmanga2.net", "qmanga3.com");
-    url = url.replace("qmanga3.com", "qmanga3.net");
+    url = url.replace("qmanga2.net", "qmanga4.com");
+    url = url.replace("qmanga4.com", "qmanga3.net");
     let response = fetch(url);
     if (response.ok) {
         let doc = response.html();

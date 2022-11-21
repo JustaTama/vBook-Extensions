@@ -5,7 +5,7 @@
         "version": 1,
         "source": "https://bachngocsach.com/reader",
         "regexp": "bachngocsach.com/reader/[^/]+/?$",
-        "description": "Đọc truyện trên trang bachngocsach.com/reader",
+        "description": "Đọc truyện trên trang bachngocsach.com",
         "locale": "vi_VN",
         "type": "novel",
         "language": "javascript"

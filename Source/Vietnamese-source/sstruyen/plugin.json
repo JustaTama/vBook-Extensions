@@ -1,20 +1,21 @@
 {
   "metadata": {
-    "name": "Ngôn Phong",
+    "name": "SSTruyện",
     "author": "JustaTama",
     "version": 1,
-    "source": "https://www.ngonphong.com",
-    "regexp": "(www.)?ngonphong.com/[^/]+/[^/]+/?$",
-    "description": "Đọc truyện trên trang ngonphong.com",
+    "source": "https://sstruyen.vn",
+    "regexp": "(www.)?sstruyen.(com|vn)/[^/]+/?$",
+    "description": "Đọc truyện trên trang sstruyen.vn",
     "locale": "vi_VN",
-    "language": "javascript",
-    "type": "comic"
+    "type": "novel",
+    "language": "javascript"
   },
   "script": {
     "home": "home.js",
     "genre": "genre.js",
     "detail": "detail.js",
     "search": "search.js",
+    "page": "page.js",
     "toc": "toc.js",
     "chap": "chap.js"
   }
