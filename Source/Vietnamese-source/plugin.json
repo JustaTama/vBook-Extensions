@@ -379,14 +379,14 @@
         "locale": "vi_VN"
       },
       {
-        "name": "xxx",
+        "name": "Truyện Dịch Giá Rẻ",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/truyendichgiare/plugin.zip",
         "version": 1,
-        "source": "xxx",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
-        "description": "Đọc truyện trên trang xxx",
-        "type": "comic",
+        "source": "http://truyendichgiare.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/truyendichgiare/icon.png",
+        "description": "Đọc truyện trên trang truyendichgiare.com",
+        "type": "novel",
         "locale": "vi_VN"
       },
       {
