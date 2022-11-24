@@ -306,7 +306,7 @@
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/nettruyen/plugin.zip",
         "version": 1,
-        "source": "https://www.nettruyenin.com/",
+        "source": "https://www.nettruyenon.com/",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/nettruyen/icon.png",
         "description": "Đọc truyện trên trang NetTruyen",
         "type": "comic",
@@ -667,10 +667,10 @@
       {
         "name": "VlogNovel",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/vlognovel/plugin.zip",
         "version": 1,
         "source": "https://vlognovel.com",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/vlognovel/icon.png",
         "description": "Đọc truyện trên trang VlogNovel",
         "type": "novel",
         "locale": "vi_VN"
@@ -689,10 +689,10 @@
       {
         "name": "Wattpad",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/Wattpad/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/wattpad/plugin.zip",
         "version": 1,
         "source": "https://wattpad.com",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/Wattpad/icon.png",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/wattpad/icon.png",
         "description": "Đọc truyện trên trang Wattpad",
         "type": "novel",
         "locale": "global"
