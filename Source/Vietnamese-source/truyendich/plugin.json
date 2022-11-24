@@ -2,11 +2,11 @@
   "metadata": {
     "name": "Truyện Dịch",
     "author": "JustaTama",
-    "version": 4,
+    "version": 1,
     "source": "https://truyendichz.com",
     "regexp": "(www.)?truyendichz.com/[0-9a-z-]+",
     "description": "Đọc truyện trên trang Truyendichz.com",
-    "locale": "vi-VN",
+    "locale": "vi_VN",
     "language": "javascript",
     "type" : "novel"
   },

@@ -9,7 +9,7 @@ function execute(url) {
             description: doc.select(".detail-summary").text(),
             detail: 'Tình trạng : '+doc.select(".status .detail-info").text()+'<br>Nhóm dịch : '+doc.select(".translate-group .detail-info").text()+'<br>Tác giả : '+doc.select(".author .detail-info").text(),
             ongoing: doc.select(".status").first().text().indexOf("Đang cập nhật") != -1,
-            host: "https://doctruyen3qme.com"
+            host: "https://doctruyen3qi.co"
         });
     }
     return null

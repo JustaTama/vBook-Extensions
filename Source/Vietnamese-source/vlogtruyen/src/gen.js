@@ -14,7 +14,7 @@ function execute(url, page) {
             link: e.select("a").first().attr("href"),
             cover: e.select(".image-commic-tab img").first().attr("data-src"),
             description: e.select(".chapter-commic-tab a").first().text(),
-            host: "https://vlogtruyen.net"
+            host: "https://vlogtruyen2.net"
         })
     }
 

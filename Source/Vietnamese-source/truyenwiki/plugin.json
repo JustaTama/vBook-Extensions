@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Truyện Wiki",
+    "name": "TruyệnWiki",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://truyenwiki.net",
     "regexp": "(www.)?truyenwiki.net/[0-9a-z-]+.\\d+/?",
     "description": "Đọc truyện trên trang truyenwiki.net",
-    "locale": "vi-VN",
+    "locale": "vi_VN",
     "language": "javascript",
     "type" : "novel"
   },

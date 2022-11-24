@@ -17,7 +17,7 @@ function execute(url, page) {
                 link: e.select("h3 a").first().attr("href"),
                 cover: e.select(".image-item img").attr("data-original") || e.select(".image-item img").attr("src"),
                 description: e.select(".chapter-detail a").first().text(),
-                host: "https://doctruyen3qme.com"
+                host: "https://doctruyen3qi.co"
             })
         })
         return Response.success(data, next)

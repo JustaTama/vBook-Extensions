@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "TruyenYY",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://truyenyy.vip",
+    "regexp": "(www.)?truyenyy.(com|vn|vip)/truyen/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang TruyenYY",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

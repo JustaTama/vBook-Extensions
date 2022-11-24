@@ -1,5 +1,5 @@
 function execute() {
-    let repsonse = fetch('https://doctruyen3qme.com/tim-truyen');
+    let repsonse = fetch('https://doctruyen3qi.co/tim-truyen');
     if(repsonse.ok){
         let doc = repsonse.html();
         let el = doc.select(".categories-detail li a")

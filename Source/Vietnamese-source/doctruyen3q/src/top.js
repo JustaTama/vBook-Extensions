@@ -1,6 +1,6 @@
 function execute(sort, page) {
     if (!page) page = '1';
-    let response = fetch('https://doctruyen3qme.com/tim-truyen',{
+    let response = fetch('https://doctruyen3qi.co/tim-truyen',{
         method : "GET",
         queries : {
             page : page,
@@ -18,7 +18,7 @@ function execute(sort, page) {
                 link: e.select("h3 a").first().attr("href"),
                 cover: e.select(".image-item img").attr("data-original") || e.select(".image-item img").attr("src"),
                 description: e.select(".chapter-detail a").first().text(),
-                host: "https://doctruyen3qme.com"
+                host: "https://doctruyen3qi.co"
             })
         })
         return Response.success(data, next)

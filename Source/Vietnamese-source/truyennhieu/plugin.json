@@ -2,11 +2,11 @@
   "metadata": {
     "name": "Truyện Nhiều",
     "author": "JustaTama",
-    "version": 3,
+    "version": 1,
     "source": "https://truyennhieu.com",
     "regexp": "(www.)?truyennhieu.com/[^/]+/?",
     "description": "Đọc truyện trên trang Truyennhieu.com",
-    "local": "vi-VN",
+    "local": "vi_VN",
     "language": "javascript"
   },
   "script": {

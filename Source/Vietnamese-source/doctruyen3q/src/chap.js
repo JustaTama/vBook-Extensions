@@ -6,7 +6,7 @@ function execute(url) {
         let imgs = [];
         el.forEach(e =>{
             let img = e.attr("src");
-            if(!img.endsWith('doctruyen3qme.jpg')) imgs.push(img)
+            if(!img.endsWith('doctruyen3qi.co')) imgs.push(img)
         });
         return Response.success(imgs);
     }

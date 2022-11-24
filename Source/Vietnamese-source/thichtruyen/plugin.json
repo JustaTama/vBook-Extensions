@@ -6,7 +6,7 @@
     "source": "https://thichtruyen.vn",
     "regexp": "(www.)?thichtruyen.vn.*",
     "description": "Đọc truyện trên trang thichtruyen.vn",
-    "local": "vi-VN",
+    "local": "vi_VN",
     "language": "javascript",
     "type" : "novel"
   },

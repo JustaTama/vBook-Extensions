@@ -5,6 +5,6 @@ function execute(url) {
         cover: doc.select(".book img").attr('src'),
         description: doc.select(".desc-text").text(),
         detail: doc.select(".info").text(),
-        host: "https://truyenmoii.com"
+        host: "https://truyenmoii.net"
     })
 }

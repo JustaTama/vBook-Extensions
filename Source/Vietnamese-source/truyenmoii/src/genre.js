@@ -1,5 +1,5 @@
 function execute(url) {
-    const doc = Http.get("https://truyenmoii.com/").html()
+    const doc = Http.get("https://truyenmoii.net/").html()
     el = doc.select(".multi-column ul.dropdown-menu li a")
     size =el.size()
     const data = []

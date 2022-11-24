@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Truyện A",
+    "name": "TruyệnA",
     "author": "JustaTama",
-    "version": 4,
+    "version": 1,
     "source": "https://truyena.net",
     "regexp": "(www.)?truyena.net/[0-9a-z-]+.\\d+/?$",
-    "description": "Nếu có lỗi bạn có thể liên hệ tới Email: mtama1204@yandex.com hoặc Discord",
-    "locale": "vi-VN",
+    "description": "Đọc truyện trên trang truyena.net",
+    "locale": "vi_VN",
     "language": "javascript",
     "type" : "novel"
   },

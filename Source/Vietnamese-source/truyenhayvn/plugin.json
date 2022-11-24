@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "TruyenHayVN",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://2.truyenhay.com",
+    "regexp": "(www.|2.)?2.truyenhay.com/[^/]+/?$",
+    "description": "Đọc truyện trên trang TruyenHayVN",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

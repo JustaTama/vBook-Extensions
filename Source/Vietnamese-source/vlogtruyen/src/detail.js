@@ -7,6 +7,6 @@ function execute(url) {
         description: doc.select(".desc-commic-detail").text(),
         detail: doc.select(".categories-list-detail-commic").html(),
         category: doc.select(".categories-list-detail-commic").html(),
-        host: "https://vlogtruyen.net"
+        host: "https://vlogtruyen2.net"
     });
 }

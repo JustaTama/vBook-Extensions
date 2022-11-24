@@ -2,11 +2,11 @@
   "metadata": {
     "name": "Tiên Vực",
     "author": "JustaTama",
-    "version": 4,
-    "source": "https://tienvuc.vip",
-    "regexp": "(www.)?tienvuc.vip/[0-9a-z-]+/?$",
-    "description": "Nếu có vấn đề vui lòng liên hệ email : mtama1204@yandex.com",
-    "locale": "vi-VN",
+    "version": 1,
+    "source": "https://truyentienvuc.com",
+    "regexp": "(www.)?truyentienvuc.com/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang truyentienvuc.com",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"
   },

@@ -6,7 +6,7 @@ function execute(url) {
     var getc = fetch(base);
     let text = getc.text();
     var content = getDecryptedCode(text);
-    if (content === '') var content = 'Chương VIP - Vui lòng sử dụng trình duyệt trong Vbook đăng nhập và mua chương nếu bạn muốn đọc chương VIP<br> Nếu đã mua chương mà vẫn có lỗi thì cho mượn nick để test :D'
+    if (content === '') var content = 'Chương VIP - Vui lòng sử dụng trình duyệt trong Vbook đăng nhập và mua chương nếu bạn muốn đọc chương VIP'
     return Response.success(content);
 }
 function getDecryptedCode(text) {

@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Vlog Truyện",
+    "name": "VlogTruyen",
     "author": "JustaTama",
-    "version": 2,
-    "source": "https://vlogtruyen.net",
-    "regexp": "(www.)?vlogtruyen.net/[^/]+.html",
-    "description": "Đọc truyện tại vlogtruyen.net",
-    "locale": "vi-VN",
+    "version": 1,
+    "source": "https://vlogtruyen2.net",
+    "regexp": "(www.)?vlogtruyen2.net/[^/]+.html",
+    "description": "Đọc truyện tại vlogtruyen2.net",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "comic"
   },

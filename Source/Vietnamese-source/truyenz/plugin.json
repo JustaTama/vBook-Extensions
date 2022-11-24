@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Truyện Z (Manga)",
+    "name": "TruyệnZ",
     "author": "JustaTama",
-    "version": 3,
+    "version": 1,
     "source": "https://truyenz.info",
     "regexp": "(www.)?truyenz.info/manga/[0-9a-z-]+/?$",
     "description": "Đọc truyện trên trang truyenz.info",
-    "local": "vi-VN",
+    "local": "vi_VN",
     "language": "javascript",
     "type": "comic"
   },

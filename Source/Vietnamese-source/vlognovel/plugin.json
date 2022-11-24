@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Vlognovel",
+    "name": "VlogNovel",
     "author": "JustaTama",
-    "version": 4,
+    "version": 1,
     "source": "https://vlognovel.com",
     "regexp": "https://vlognovel.com/[^/]+.html",
-    "description": "Vlognovel- Đọc là nghiền",
-    "locale": "vi-VN",
+    "description": "Đọc truyện trên trang VlogNovel",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"
   },

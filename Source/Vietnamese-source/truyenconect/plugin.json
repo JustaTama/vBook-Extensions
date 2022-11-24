@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "TruyệnConect",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://truyenconect.com/",
+    "regexp": "(www.)?truyenconect.com/truyen/[^.].+.html",
+    "description": "Đọc truyện trên trang TruyenConect",
+    "local": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

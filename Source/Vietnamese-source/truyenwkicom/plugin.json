@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "TruyenWki.Com",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://truyenwki.com",
+    "regexp": "(www.)?truyenwki.com/truyen/.*?",
+    "description": "Đọc truyện trên trang truyenwki.com",
+    "local": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

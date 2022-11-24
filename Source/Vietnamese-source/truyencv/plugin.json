@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "truyencv",
+    "name": "TruyenCV",
     "author": "JustaTama",
     "version": 1,
     "source": "https://m.truyencv.vn/",
     "regexp": "https://m.truyencv.vn/truyen/[0-9a-z-]+/?$",
-    "description": "TruyenCV.",
-    "locale": "vi-VN",
+    "description": "Đọc truyện trên trang m.truyencv.vn",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"
   },

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Truyện Chữ",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://truyenchu.vn",
+    "regexp": "(www.)?(truyenchu.vn)/[^/]+/?$",
+    "description": "Đọc truyện trên trang Truyện Chữ",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

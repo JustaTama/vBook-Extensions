@@ -12,7 +12,7 @@ function execute(url, page) {
             link: e.select("h3 a").attr("href"),
             cover: e.select("img").attr("data-src"),
             description: e.select(".author").text(),
-            host: "https://truyenmoii.com"
+            host: "https://truyenmoii.net"
         })
     }
     return Response.success(data,next)

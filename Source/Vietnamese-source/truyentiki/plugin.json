@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Truyện Tiki",
+    "name": "TruyệnTiki",
     "author": "JustaTama",
-    "version": 3,
+    "version": 1,
     "source": "https://truyentiki.com",
     "regexp": "(www.)?((truyentiki.com/[^/+]+/)|(truyentiki.com/[^/+]+))",
     "description": "Đọc truyện trên trang Truyentiki.com",
-    "local": "vi-VN",
+    "local": "vi_VN",
     "language": "javascript",
     "type" : "novel"
   },

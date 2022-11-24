@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "name": "Truyện Tranh Net",
+    "name": "TruyệnTranh.Net",
     "author": "JustaTama",
     "version": 1,
     "source": "https://truyentranh.net",
     "regexp": "(www.)?truyentranh.net.*",
     "description": "Đọc truyện trên trang Truyentranh.net",
-    "local": "vi-VN",
+    "local": "vi_VN",
     "language": "javascript",
     "type": "comic"
   },
