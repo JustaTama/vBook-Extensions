@@ -5,6 +5,17 @@
     },
     "data": [
       {
+        "name": "JustaTama",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+        "version": 1,
+        "source": "xxx",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+        "description": "Đọc truyện trên trang xxx",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
         "name": "8ternal (comic)",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/8ternal/plugin.zip",
@@ -13,7 +24,7 @@
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/8ternal/icon.png",
         "description": "Đọc truyện trên trang comic.8ternal.com.vn",
         "type": "comic",
-        "locale": "vi_VN"
+        "locale": "vi_VN" 
       },
       {
         "name": "123Truyện",
@@ -255,6 +266,17 @@
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/lustaveland/icon.png",
         "description": "Đọc truyện trên trang luvevaland.co",
         "type": "comic,novel",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Mangabit",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/mangabit/plugin.zip",
+        "version": 1,
+        "source": "https://mangabit.top",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/mangabit/icon.png",
+        "description": "Đọc truyện trên trang Mangabit",
+        "type": "comic",
         "locale": "vi_VN"
       },
       {
@@ -632,6 +654,28 @@
         "locale": "vi_VN"
       },
       {
+        "name": "TuSachXinhXinh",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/tusachxinhxinh1/plugin.zip",
+        "version": 1,
+        "source": "https://tusachxinhxinh1.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/tusachxinhxinh1/icon.png",
+        "description": "Đọc truyện trên trang TuSachXinhXinh",
+        "type": "comic",
+        "locale": "vi_VN"
+      },
+      {
+        "name": "Vietnovel Origin",
+        "author": "JustaTama",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/vietnovel/plugin.zip",
+        "version": 1,
+        "source": "https://www.vietnovel.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/vietnovel/icon.png",
+        "description": "Đọc truyện trên trang Vietnovel Origin",
+        "type": "novel",
+        "locale": "vi_VN"
+      },
+      {
         "name": "Việt Writer",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/vietwriter/plugin.zip",
@@ -698,25 +742,25 @@
         "locale": "global"
       },
       {
-        "name": "xxx",
+        "name": "Yocomic",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/yocomic/plugin.zip",
         "version": 1,
-        "source": "xxx",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
-        "description": "Đọc truyện trên trang xxx",
+        "source": "https://yocomic.com",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/yocomic/icon.png",
+        "description": "Đọc truyện trên trang Yocomic",
         "type": "comic",
         "locale": "vi_VN"
       },
       {
-        "name": "xxx",
+        "name": "zTruyen",
         "author": "JustaTama",
-        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+        "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/ztruyen/plugin.zip",
         "version": 1,
-        "source": "xxx",
-        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
-        "description": "Đọc truyện trên trang xxx",
-        "type": "comic",
+        "source": "https://ztruyen.vn",
+        "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/ztruyen/icon.png",
+        "description": "Đọc truyện trên trang zTruyen",
+        "type": "novel",
         "locale": "vi_VN"
       },
       {

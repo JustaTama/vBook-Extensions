@@ -17,6 +17,30 @@
             "tag": "nsfw"
           },
           {
+            "name": "xxx",
+            "author": "JustaTama",
+            "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+            "version": 1,
+            "source": "xxx",
+            "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+            "description": "Đọc truyện trên trang xxx",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+          },
+          {
+            "name": "HentaiVN VIP",
+            "author": "JustaTama",
+            "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/hentaivnvip/plugin.zip",
+            "version": 1,
+            "source": "https://hentaivnvip.net/",
+            "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/hentaivnvip/icon.png",
+            "description": "Đọc truyện trên trang HentaiVN VIP",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+          },
+          {
             "name": "Koanchay",
             "author": "JustaTama",
             "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/koanchay/plugin.zip",
@@ -36,6 +60,66 @@
             "source": "https://kocr.net/",
             "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/kocr/icon.png",
             "description": "Đọc truyện trên trang kocr.net",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+          },
+          {
+            "name": "xxx",
+            "author": "JustaTama",
+            "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+            "version": 1,
+            "source": "xxx",
+            "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+            "description": "Đọc truyện trên trang xxx",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+          },
+          {
+            "name": "xxx",
+            "author": "JustaTama",
+            "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+            "version": 1,
+            "source": "xxx",
+            "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+            "description": "Đọc truyện trên trang xxx",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+          },
+          {
+            "name": "xxx",
+            "author": "JustaTama",
+            "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+            "version": 1,
+            "source": "xxx",
+            "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+            "description": "Đọc truyện trên trang xxx",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+          },
+          {
+            "name": "xxx",
+            "author": "JustaTama",
+            "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+            "version": 1,
+            "source": "xxx",
+            "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+            "description": "Đọc truyện trên trang xxx",
+            "type": "comic",
+            "locale": "vi_VN",
+            "tag": "nsfw"
+          },
+          {
+            "name": "xxx",
+            "author": "JustaTama",
+            "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/plugin.zip",
+            "version": 1,
+            "source": "xxx",
+            "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/xxx/icon.png",
+            "description": "Đọc truyện trên trang xxx",
             "type": "comic",
             "locale": "vi_VN",
             "tag": "nsfw"

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Vietnovel Origin",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://www.vietnovel.com",
+    "regexp": "(www.|m.)?vietnovel.com/(.*?)",
+    "description": "Đọc truyện trên trang Vietnovel Origin",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "genre": "genre.js",
+    "toc": "toc.js",
+    "search": "search.js",
+    "chap": "chap.js"
+  }
+}

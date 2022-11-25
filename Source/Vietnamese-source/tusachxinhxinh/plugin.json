@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "TuSachXinhXinh",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://tusachxinhxinh1.com",
+    "regexp": "(www.)?tusachxinhxinh1.com/[^/].+/?$",
+    "description": "Đọc truyện trên trang TuSachXinhXinh",
+    "local": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -2,11 +2,11 @@
   "metadata": {
     "name": "zTruyen",
     "author": "JustaTama",
-    "version": 2,
+    "version": 1,
     "source": "https://ztruyen.vn",
     "regexp": "https://ztruyen.vn/truyen/[0-9a-z-]+/?$",
-    "description": "zTruyen.vn - đọc truyện Online miễn phí Update nhanh nhất với đầy đủ các thể loại truyện hot, truyện hay và mới nhất như truyện ngôn tình, truyện đam mỹ, truyện sắc, truyện tiên hiệp, truyện kiếm hiệp, được cập nhật liên tục từ nhiều nguồn khác nhau. Hỗ trợ đọc truyện trên mọi thiết bị.",
-    "locale": "vi-VN",
+    "description": "Đọc truyện trên trang zTruyen",
+    "locale": "vi_VN",
     "language": "javascript",
     "type": "novel"
   },
