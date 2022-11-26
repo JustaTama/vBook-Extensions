@@ -328,7 +328,7 @@
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/nettruyen/plugin.zip",
         "version": 1,
-        "source": "https://www.nettruyenon.com/",
+        "source": "https://www.nettruyentv.com/",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/nettruyen/icon.png",
         "description": "Đọc truyện trên trang NetTruyen",
         "type": "comic",
