@@ -1,11 +1,11 @@
 {
   "metadata": {
     "name": "Truyện Full Dịch",
-    "author": "JustaTama",
+    "author": "JustaTama.",
     "version": 1,
     "source": "https://truyenfulldich.com/",
-    "regexp": "(www.)?truyenfulldich/[0-9a-z-]+/?$",
-    "description": "Đọc truyện trên trang truyenfulldich.com",
+    "regexp": "(www.)?truyenfulldich.com/[0-9a-z-]+/?$",
+    "description": "Fix lỗi chèn chữ chương VIP",
     "locale": "vi_VN",
     "language": "javascript",
     "type" : "novel"

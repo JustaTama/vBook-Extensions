@@ -9,7 +9,7 @@ function execute(url) {
             description: doc.select(".desc-text").text(),
             detail: 'Trạng thái : '+doc.select(".info div > span").text()+'<br>Tác giả : '+doc.select(".info a[href~=tac-gia]").text()+'<br>'+doc.select(".info div").get(2).text(),
             ongoing: doc.select(".info div > span").first().text().indexOf("Đang cập nhật") != -1,
-            host: "https://truyenfulldich.com/",
+            host: "https://truyenfulldich.com",
         });
     }
     return null
