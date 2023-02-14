@@ -489,13 +489,13 @@
         "locale": "vi_VN"
       },
       {
-        "name": "Truyện Dịch Giá Rẻ",
+        "name": "Truyện Full Dịch",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/truyendichgiare/plugin.zip",
         "version": 1,
-        "source": "http://truyendichgiare.com",
+        "source": "https://truyenfulldich.com/",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/truyendichgiare/icon.png",
-        "description": "Đọc truyện trên trang truyendichgiare.com",
+        "description": "Đọc truyện trên trang truyenfulldich.com",
         "type": "novel",
         "locale": "vi_VN"
       },

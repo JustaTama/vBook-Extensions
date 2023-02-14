@@ -1,5 +1,5 @@
 function execute() {
-    let repsonse = fetch('https://truyendichgiare.com/danh-sach/truyen-moi');
+    let repsonse = fetch('https://truyenfulldich.com/danh-sach/truyen-moi');
     if(repsonse.ok){
         let doc = repsonse.html();
         let el = doc.select(".dropdown-menu a")

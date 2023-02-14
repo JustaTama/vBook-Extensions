@@ -1,6 +1,6 @@
 function execute(key, page) {
     if (!page) page = '1';
-    let response = fetch('http://truyendichgiare.com/search',{
+    let response = fetch('https://truyenfulldich.com/search',{
         method : "GET",
         queries : {
             q : key
@@ -16,7 +16,7 @@ function execute(key, page) {
                 link: e.select("h3.truyen-title a").first().attr("href"),
                 cover: e.select("img").first().attr("src"),
                 description: e.select(".author").first().text(),
-                host: "http://truyendichgiare.com"
+                host: "https://truyenfulldich.com"
             })
         })
         return Response.success(data)

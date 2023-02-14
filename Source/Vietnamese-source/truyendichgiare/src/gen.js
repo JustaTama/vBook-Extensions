@@ -17,7 +17,7 @@ function execute(url, page) {
                 link: e.select("h3.truyen-title a").first().attr("href"),
                 cover: e.select("img").first().attr("src"),
                 description: e.select(".author").first().text(),
-                host: "http://truyendichgiare.com"
+                host: "https://truyenfulldich.com/"
             })
         })
         return Response.success(data, next)
