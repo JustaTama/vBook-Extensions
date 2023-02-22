@@ -690,10 +690,10 @@
         "name": "【VIP】Bạch Ngọc Sách",
         "author": "JustaTama",
         "path": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/VIP.BachNgocSach/plugin.zip",
-        "version": 1,
-        "source": "https://vip.bachngocsach.com",
+        "version": 8,
+        "source": "https://bachngocsach.vip",
         "icon": "https://raw.githubusercontent.com/JustaTama/vBook-Extensions/main/Source/Vietnamese-source/VIP.BachNgocSach/icon.png",
-        "description": "Đọc truyện trên trang vip.bachngocsach.com",
+        "description": "Đọc truyện trên trang bachngocsach.vip",
         "type": "novel",
         "locale": "vi_VN"
       },
